@@ -1,4 +1,4 @@
-# Brothers In Ladles (B.I.L) - Price Update Tool
+# Brothers In Ladles (B.I.L) - Sage Price Update Tool
 
 A web-based application designed to streamline the process of updating product prices between Sage and supplier files. This tool helps businesses efficiently manage price updates, cost adjustments, and maintain accurate pricing data.
 
