@@ -278,15 +278,15 @@ def process_files():
                         if norm_code in supplier_mapping and supplier_mapping[norm_code] == 0:
                             print(f"Setting Price Exclusive to 0 for discontinued item {norm_code}")
                             updated_row[price_exclusive_col] = 0
-                        # Only apply percentage calculations if not discontinued and percentages are set
-                        elif price_exclusive_percentage_1 != 0 or price_exclusive_percentage_2 != 0:
-                            # Apply first percentage increase
-                            if price_exclusive_percentage_1 != 0:
-                                updated_row[price_exclusive_col] = new_cost * (1 + price_exclusive_percentage_1 / 100)
-                            else:
-                                updated_row[price_exclusive_col] = new_cost
+                        else:
+                            # Start with the new cost as the base price
+                            updated_row[price_exclusive_col] = new_cost
                             
-                            # Apply second percentage increase
+                            # Apply first percentage increase if specified
+                            if price_exclusive_percentage_1 != 0:
+                                updated_row[price_exclusive_col] = updated_row[price_exclusive_col] * (1 + price_exclusive_percentage_1 / 100)
+                            
+                            # Apply second percentage increase if specified
                             if price_exclusive_percentage_2 != 0:
                                 updated_row[price_exclusive_col] = updated_row[price_exclusive_col] * (1 + price_exclusive_percentage_2 / 100)
                     
