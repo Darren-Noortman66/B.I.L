@@ -86,7 +86,7 @@ A web-based application designed to streamline the process of updating product p
 ### Sage File
 - Must be in CSV format
 - Must contain product codes and cost columns
-- Price Inclusive column will be preserved
+- Price Inclusive column will be preserved (This is calculated by Sage after the update)
 
 ### Supplier File
 - Can be CSV or Excel format
