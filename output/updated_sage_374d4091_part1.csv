@@ -1,0 +1,451 @@
+Code,Description,Category,Active,Unit,Default Price List - Exclusive,Default Price List - Inclusive,Physical,Text User Field 1,Text User Field 2,Text User Field 3,Numeric User Field 1,Numeric User Field 2,Numeric User Field 3,Date User Field 1,Date User Field 2,Date User Field 3,Yes/No User Field 1,Yes/No User Field 2,Yes/No User Field 3,VAT Type Sales,VAT Type Purchases,Cost,Quantity,Sales Account,Purchases Account
+AKM6230B,MIXER ANKARSRUM ORIGINAL - BLACK,CaterMarket,True,EACH,13230.0,15214.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,11250.0,0,Sales,Purchases
+AKM6230BC,MIXER ANKARSRUM ORIGINAL - BLACK CHROME,CaterMarket,True,EACH,13230.0,15214.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,11250.0,0,Sales,Purchases
+AKM6230BD,MIXER ANKARSRUM ORIGINAL - BLACK DIAMOND,CaterMarket,True,EACH,13230.0,15214.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,11250.0,0,Sales,Purchases
+AKM6230C,MIXER ANKARSRUM ORIGINAL - CREME,CaterMarket,True,EACH,13230.0,15214.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,11250.0,0,Sales,Purchases
+AKM6230CC,MIXER ANKARSRUM ORIGINAL - CORAL CRUSH,CaterMarket,True,EACH,13230.0,15214.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,11250.0,0,Sales,Purchases
+AKM6230HB,MIXER ANKARSRUM ORIGINAL - HARMONY BEIDGE,CaterMarket,True,EACH,13230.0,15214.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,11250.0,0,Sales,Purchases
+AKM6230JS,MIXER ANKARSRUM ORIGINAL - JUBILEE SILVER,CaterMarket,True,EACH,13230.0,15214.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,11250.0,0,Sales,Purchases
+AKM6230MW,MIXER ANKARSRUM ORIGINAL - MINERAL WHITE,CaterMarket,True,EACH,13230.0,15214.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,11250.0,0,Sales,Purchases
+AKM6230OB,MIXER ANKARSRUM ORIGINAL - OCEAN BLUE,CaterMarket,True,EACH,13230.0,15214.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,11250.0,0,Sales,Purchases
+AKM6230OG,MIXER ANKARSRUM ORIGINAL - OLIVE GREEN,CaterMarket,True,EACH,13230.0,15214.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,11250.0,0,Sales,Purchases
+AKM6230R,MIXER ANKARSRUM ORIGINAL - RED,CaterMarket,True,EACH,13230.0,15214.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,11250.0,0,Sales,Purchases
+AKM6230SY,MIXER ANKARSRUM ORIGINAL - SUNBEAN YELLOW,CaterMarket,True,EACH,13230.0,15214.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,11250.0,0,Sales,Purchases
+AKM92000196-50,3.5LT PLASTIC BOWL,CaterMarket,True,EACH,529.0,608.35,True,,,,,,,,,,,,,Standard Rate,Standard Rate,450.0,0,Sales,Purchases
+AKM920900026,CITRUS PRESS - 1.2LT,CaterMarket,True,EACH,706.0,811.9,True,,,,,,,,,,,,,Standard Rate,Standard Rate,600.0,0,Sales,Purchases
+AKM920900033,STRAINER ATTACHMENT FOR MINCER,CaterMarket,True,EACH,1588.0,1826.2,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1350.0,0,Sales,Purchases
+AKM920900034,GRATER ATTACHEMENT FOR MINCER,CaterMarket,True,EACH,1058.0,1216.7,True,,,,,,,,,,,,,Standard Rate,Standard Rate,900.0,0,Sales,Purchases
+AKM920900035,COOKIE ATTACHMENT FOR MINCER,CaterMarket,True,EACH,529.0,608.35,True,,,,,,,,,,,,,Standard Rate,Standard Rate,450.0,0,Sales,Purchases
+AKM920900036,PASTA DISCS FOR MINCER,CaterMarket,True,EACH,353.0,405.95,True,,,,,,,,,,,,,Standard Rate,Standard Rate,300.0,0,Sales,Purchases
+AKM920900043,VEGETABLE CUTTER,CaterMarket,True,EACH,2646.0,3042.9,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2250.0,0,Sales,Purchases
+AKM920900044,EXTRA GRATING DRUMS,CaterMarket,True,EACH,2117.0,2434.55,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1800.0,0,Sales,Purchases
+AKM920900045,FLOUR AND COFFE GRINDER,CaterMarket,True,EACH,2999.0,3448.85,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2550.0,0,Sales,Purchases
+AKM920900046,FLAKE MILL,CaterMarket,True,EACH,2999.0,3448.85,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2550.0,0,Sales,Purchases
+AKM920900052/3/4/5,HOLE DISCS FOR MINCER 2.5 / 4.5 / 6 / 8MM,CaterMarket,True,EACH,353.0,405.95,True,,,,,,,,,,,,,Standard Rate,Standard Rate,300.0,0,Sales,Purchases
+AKM920900057,MEAT MINCER AND SAUSAGE HORN 10 / 20 / 25MM,CaterMarket,True,EACH,3175.0,3651.25,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2700.0,0,Sales,Purchases
+AKM920900065,PASTA / SPAGHETTI CUTTER,CaterMarket,True,EACH,1940.0,2231.0,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1650.0,0,Sales,Purchases
+AKM920900066,BLENDER WITH 1.5LT JUG,CaterMarket,True,EACH,2117.0,2434.55,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1800.0,0,Sales,Purchases
+AKM920900067,DELUXE PACKAGE FOR ANKARSRUM MIXER,CaterMarket,True,EACH,7585.0,8722.75,True,,,,,,,,,,,,,Standard Rate,Standard Rate,6450.0,0,Sales,Purchases
+AKM920900072,ICE CREAM ACCESSORY,CaterMarket,True,EACH,2470.0,2840.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2100.0,0,Sales,Purchases
+ARI/4BG-EOC/700,4 BURNER WITH ELECTRIC CONVECTION OVEN - 700 RANGE,CaterMarket,True,EACH,38984.0,44831.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,33150.0,0,Sales,Purchases
+ARI/6BG-EOC/700,6 BURNER WITH ELECTRIC CONVECTION OVEN & CABINET - 700 RANGE,CaterMarket,True,EACH,55742.0,64103.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,47400.0,0,Sales,Purchases
+ARI/EP922,TILTPAN - 90LT - ELEC,CaterMarket,True,EACH,74441.0,85607.15,True,,,,,,,,,,,,,Standard Rate,Standard Rate,63300.0,0,Sales,Purchases
+ARI/ER721S/D721,4 PLATE ELEC RANGE ON NUTRAL CABINET - 700 RANGE,CaterMarket,True,EACH,22756.0,26169.4,True,,,,,,,,,,,,,Standard Rate,Standard Rate,19350.0,0,Sales,Purchases
+ARI/ER722,4 PLATE ELEC RANGE WITH ELEC CONVECTION OVEN - 700 RANGE,CaterMarket,True,EACH,34222.0,39355.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,29100.0,-1,Sales,Purchases
+ARI/ER921,4 PLATE ELEC RANGE ON NUTRAL CABINET - 900 RANGE,CaterMarket,True,EACH,46570.0,53555.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,39600.0,0,Sales,Purchases
+ARI/ER922,4 PLATE ELEC RANGE WITH ELEC CONVECTION OVEN - 900 RANGE,CaterMarket,True,EACH,63680.0,73232.0,True,,,,,,,,,,,,,Standard Rate,Standard Rate,54150.0,-1,Sales,Purchases
+ARI/GP922,TILTPAN - 90LT - GAS,CaterMarket,True,EACH,74441.0,85607.15,True,,,,,,,,,,,,,Standard Rate,Standard Rate,63300.0,0,Sales,Purchases
+ARI/GR922,4 BURNER WITH GAS OVEN - 900 RANGE,CaterMarket,True,EACH,53626.0,61669.9,True,,,,,,,,,,,,,Standard Rate,Standard Rate,45600.0,0,Sales,Purchases
+ARI/GR922E,4 BURNER WITH ELECTRIC CONVECTION OVEN - 900 RANGE,CaterMarket,True,EACH,55390.0,63698.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,47100.0,0,Sales,Purchases
+AVA-100155-HD,FOOD PAN CARRIER 6 PAN FRONT LOADING (GREY),CaterMarket,True,EACH,5468.0,6288.2,True,,,,,,,,,,,,,Standard Rate,Standard Rate,4650.0,0,Sales,Purchases
+AVA-100160-HD,FOOD PAN CARRIER 6 PAN FRONT LOADING (YELLOW),CaterMarket,True,EACH,5468.0,6288.2,True,,,,,,,,,,,,,Standard Rate,Standard Rate,4650.0,0,Sales,Purchases
+AVA-100275,DELIVERY THERMO BOX RED,CaterMarket,True,EACH,5468.0,6288.2,True,,,,,,,,,,,,,Standard Rate,Standard Rate,4650.0,0,Sales,Purchases
+AVA-100305,PIZZA DELIVERY BOX RED,CaterMarket,True,EACH,5468.0,6288.2,True,,,,,,,,,,,,,Standard Rate,Standard Rate,4650.0,0,Sales,Purchases
+BBP1001,BACK BAR COOLER - SINGLE HINGED DOOR,CaterMarket,True,EACH,9173.0,10548.95,True,,,,,,,,,,,,,Standard Rate,Standard Rate,7800.0,-1,Sales,Purchases
+BBP1002,BACK BAR COOLER - 2 HINGED DOOR,CaterMarket,True,EACH,11113.0,12779.95,True,,,,,,,,,,,,,Standard Rate,Standard Rate,9450.0,-2,Sales,Purchases
+BBP1003,BACK BAR COOLER - 3 HINGED DOOR,CaterMarket,True,EACH,14112.0,16228.8,True,,,,,,,,,,,,,Standard Rate,Standard Rate,12000.0,0,Sales,Purchases
+BBP2002,BACK BAR COOLER - 2 SLIDING DOOR,CaterMarket,True,EACH,11642.0,13388.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,9900.0,-4,Sales,Purchases
+BBP2003,BACK BAR COOLER - 3 SLIDING DOOR,CaterMarket,True,EACH,14994.0,17243.1,True,,,,,,,,,,,,,Standard Rate,Standard Rate,12750.0,-1,Sales,Purchases
+BBP3001,BACK BAR COOLER - SINGLE HINGED DOOR - STAINLESS STEEL,CaterMarket,True,EACH,13583.0,15620.45,True,,,,,,,,,,,,,Standard Rate,Standard Rate,11550.0,0,Sales,Purchases
+BBP3002,BACK BAR COOLER - 2 HINGED DOOR - STAINLESS STEEL,CaterMarket,True,EACH,16582.0,19069.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,14100.0,0,Sales,Purchases
+BBP3003,BACK BAR COOLER - 3 HINGED DOOR - STAINLESS STEEL,CaterMarket,True,EACH,21168.0,24343.2,True,,,,,,,,,,,,,Standard Rate,Standard Rate,18000.0,-1,Sales,Purchases
+BCM0511,DISCONTINUED!!! --- BLAST CHILLERS / SHOCK FREEZERS - (5 PAN),DISCONTINUED,True,EACH,0.0,0.0,True,,,,,,,,,,,,,Standard Rate,Standard Rate,33600.0,0,Sales,Purchases
+BCP0360-B,BEVERAGE COOLER - 620 X 635 X 1732MM - BLACK,CaterMarket,True,EACH,8644.0,9940.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,7350.0,0,Sales,Purchases
+BCP0360-W,BEVERAGE COOLER - 620 X 635 X 1732MM - WHITE,CaterMarket,True,EACH,8644.0,9940.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,7350.0,0,Sales,Purchases
+BCP0402-B,BEVERAGE COOLER - 620X630X1935MM - BLACK,CaterMarket,True,EACH,11290.0,12983.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,9600.0,0,Sales,Purchases
+BCS0009,BOWL CUTTER - 9LT,CaterMarket,True,EACH,9702.0,11157.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,8250.0,0,Sales,Purchases
+BCS0018,BOWL CUTTER - 18LT,CaterMarket,True,EACH,25225.0,29008.75,True,,,,,,,,,,,,,Standard Rate,Standard Rate,21450.0,0,Sales,Purchases
+BCS0035,BOWL CUTTER - 35LT,CaterMarket,True,EACH,34751.0,39963.65,True,,,,,,,,,,,,,Standard Rate,Standard Rate,29550.0,0,Sales,Purchases
+BEI-AT51363,CHAFING DISH ROLL TOP - ROUND,CaterMarket,True,EACH,2293.0,2636.95,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1950.0,0,Sales,Purchases
+BEI-AT51388,SOUP KETTLE,CaterMarket,True,EACH,2999.0,3448.85,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2550.0,0,Sales,Purchases
+BEI-AT61363-2,CHAFING DISH ROLL TOP - RECTANGULAR,CaterMarket,True,EACH,3175.0,3651.25,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2700.0,-6,Sales,Purchases
+BEI-AT80012,DELUXE COFFEE URN - 12 LITER,CaterMarket,True,EACH,3352.0,3854.8,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2850.0,0,Sales,Purchases
+BEI-AT80019,DELUXE COFFEE URN - 19 LITER,CaterMarket,True,EACH,4234.0,4869.1,True,,,,,,,,,,,,,Standard Rate,Standard Rate,3600.0,0,Sales,Purchases
+BEI-AT90123,CEREAL DISPENSER -SINGLE (420 x 230 x 620mm HIGH),CaterMarket,True,EACH,3352.0,3854.8,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2850.0,0,Sales,Purchases
+BEI-AT90123-2,CEREAL DISPENSER - DOUBLE (420 x 450 x 620mm HIGH),CaterMarket,True,EACH,6703.0,7708.45,True,,,,,,,,,,,,,Standard Rate,Standard Rate,5700.0,0,Sales,Purchases
+BEI-AT90133,CEREAL DISPENSER - SINGLE (360 x 230 x 600mm HIGH),CaterMarket,True,EACH,2646.0,3042.9,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2250.0,0,Sales,Purchases
+BEI-AT90133-2,CEREAL DISPENSER - DOUBLE (380 x 480 x 660mm HIGH),CaterMarket,True,EACH,5116.0,5883.4,True,,,,,,,,,,,,,Standard Rate,Standard Rate,4350.0,0,Sales,Purchases
+BEI-AT90212,JUICE DISPENSER - SINGLE (365 x 230 x 535mm HIGH),CaterMarket,True,EACH,2646.0,3042.9,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2250.0,0,Sales,Purchases
+BEI-AT90212-2,JUICE DISPENSER - DOUBLE (365 x 450 x 535mm HIGH),CaterMarket,True,EACH,5116.0,5883.4,True,,,,,,,,,,,,,Standard Rate,Standard Rate,4350.0,0,Sales,Purchases
+BEI-AT90512,JUICE DISPENSER - SINGLE (WITH CENTER ICE TUBE),CaterMarket,True,EACH,1940.0,2231.0,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1650.0,0,Sales,Purchases
+BEI-AT90512-2,JUICE DISPENSER - DOUBLE (WITH CENTER ICE TUBE ),CaterMarket,True,EACH,3881.0,4463.15,True,,,,,,,,,,,,,Standard Rate,Standard Rate,3300.0,0,Sales,Purchases
+BEI-KS51363,CHAFING DISH WITH SHOW WINDOW - ROUND,CaterMarket,True,EACH,4057.0,4665.55,True,,,,,,,,,,,,,Standard Rate,Standard Rate,3450.0,0,Sales,Purchases
+BEI-KS61363-2,CHAFING DISH WITH SHOW WINDOW - RECTANGULAR,CaterMarket,True,EACH,4763.0,5477.45,True,,,,,,,,,,,,,Standard Rate,Standard Rate,4050.0,0,Sales,Purchases
+BEI-KS62160-1,CHAFING DISH NEUTRAL DISPLAY,CaterMarket,True,EACH,5645.0,6491.75,True,,,,,,,,,,,,,Standard Rate,Standard Rate,4800.0,0,Sales,Purchases
+BEI-S205T,HEATING ELEMENT WITH CONTROLLER - 175mm,CaterMarket,True,EACH,1058.0,1216.7,True,,,,,,,,,,,,,Standard Rate,Standard Rate,900.0,0,Sales,Purchases
+BEI-S305T,HEATING ELEMENT WITH CONTROLLER - 250mm,CaterMarket,True,EACH,1058.0,1216.7,True,,,,,,,,,,,,,Standard Rate,Standard Rate,900.0,0,Sales,Purchases
+BEI-S50280,STAND FOR BUFFET SOUP STATION - ROUND,CaterMarket,True,EACH,1588.0,1826.2,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1350.0,0,Sales,Purchases
+BEI-S50288,INDUCTION SOUP STATION WITH HYDRAULIC GLASS LID - ROUND,CaterMarket,True,EACH,6527.0,7506.05,True,,,,,,,,,,,,,Standard Rate,Standard Rate,5550.0,0,Sales,Purchases
+BEI-S50290,STAND FOR CHAFING DISH - ROUND,CaterMarket,True,EACH,1588.0,1826.2,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1350.0,0,Sales,Purchases
+BEI-S50293,INDUCTION CHAFING DISH WITH HYDRAULIC GLASS LID - ROUND,CaterMarket,True,EACH,6174.0,7100.1,True,,,,,,,,,,,,,Standard Rate,Standard Rate,5250.0,0,Sales,Purchases
+BEI-S60290,CHAFING DISH STAND - SQUARE,CaterMarket,True,EACH,1058.0,1216.7,True,,,,,,,,,,,,,Standard Rate,Standard Rate,900.0,0,Sales,Purchases
+BEI-S60293,INDUCTION CHAFING DISH WITH HYDRAULIC GLASS LID - SQUARE,CaterMarket,True,EACH,6174.0,7100.1,True,,,,,,,,,,,,,Standard Rate,Standard Rate,5250.0,0,Sales,Purchases
+BEI-S60590,CHAFING DISH STAND - RECTANGULAR,CaterMarket,True,EACH,1411.0,1622.65,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1200.0,0,Sales,Purchases
+BEI-S60593,INDUCTION CHAFING DISH WITH HYDRAULIC GLASS LID - RECTANGULAR,CaterMarket,True,EACH,7762.0,8926.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,6600.0,0,Sales,Purchases
+BEI-SC62140-1,CHAFING DISH COLD DISPLAY,CaterMarket,True,EACH,6527.0,7506.05,True,,,,,,,,,,,,,Standard Rate,Standard Rate,5550.0,0,Sales,Purchases
+BEI-SK62160-1,CHAFING DISH HEATED DISPLAY,CaterMarket,True,EACH,6527.0,7506.05,True,,,,,,,,,,,,,Standard Rate,Standard Rate,5550.0,0,Sales,Purchases
+BEI-ZCK100P,CHAFING DISH WITH LID,CaterMarket,True,EACH,1588.0,1826.2,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1350.0,0,Sales,Purchases
+BSB0112,BLENDER WITH 2LT JUG,CaterMarket,True,EACH,2293.0,2636.95,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1950.0,-12,Sales,Purchases
+BSB0112-JAR2LT,COMPLETE SPARE JUG FOR 112 BLENDER- 2LT,CaterMarket,True,EACH,1058.0,1216.7,True,,,,,,,,,,,,,Standard Rate,Standard Rate,900.0,0,Sales,Purchases
+BSB1680,BLENDER WITH 2LT JUG,CaterMarket,True,EACH,3352.0,3854.8,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2850.0,-1,Sales,Purchases
+BSB1680-JAR2LT,COMPLETE SPARE JUG FOR 1680 & 1680C/C BLENDERS - 2LT,CaterMarket,True,EACH,1411.0,1622.65,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1200.0,-3,Sales,Purchases
+BSB1680-S/COVER,SOUND COVER FOR 1680 BLENDER,CaterMarket,True,EACH,2117.0,2434.55,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1800.0,0,Sales,Purchases
+BSB1680C/C,"BLENDER WITH DIGITAL CONTROL, 2LT JUG & SOUND PROOF COVER",CaterMarket,True,EACH,5998.0,6897.7,True,,,,,,,,,,,,,Standard Rate,Standard Rate,5100.0,-4,Sales,Purchases
+BTA0013,ALUMINIUM BAKING TRAY - 600 X 400 X 20MM,CaterMarket,True,EACH,247.0,284.05,True,,,,,,,,,,,,,Standard Rate,Standard Rate,210.0,0,Sales,Purchases
+BTA0023,ALUMINIUM BAKING TRAY 2/3GN,CaterMarket,True,EACH,132.0,151.8,True,,,,,,,,,,,,,Standard Rate,Standard Rate,112.5,0,Sales,Purchases
+BTA0064-L,ALUMINIUM BAKING TRAY - 600 X 400 X 10MM,CaterMarket,True,EACH,212.0,243.8,True,,,,,,,,,,,,,Standard Rate,Standard Rate,180.0,0,Sales,Purchases
+BTA0064-T,TEFLON COATED BAKING TRAY - 600 X 400 X 30MM,CaterMarket,True,EACH,388.0,446.2,True,,,,,,,,,,,,,Standard Rate,Standard Rate,330.0,0,Sales,Purchases
+BTS0011,STAINLESS STEEL BAKING TRAY 1/1GN,CaterMarket,True,EACH,221.0,254.15,True,,,,,,,,,,,,,Standard Rate,Standard Rate,187.5,-21,Sales,Purchases
+BTT1-15-64,BAKING TRAT TROLLEY - 15 TIER,CaterMarket,True,EACH,4851.0,5578.65,True,,,,,,,,,,,,,Standard Rate,Standard Rate,4125.0,0,Sales,Purchases
+BTT1-7-64,BAKING TRAT TROLLEY - 7 TIER,CaterMarket,True,EACH,3749.0,4311.35,True,,,,,,,,,,,,,Standard Rate,Standard Rate,3187.5,0,Sales,Purchases
+CAM-100LCD,INSULATED BEVERAGE SERVER - 5.5 LITER,CaterMarket,True,EACH,4032.0,4636.8,True,,,,,,,,,,,,,Standard Rate,Standard Rate,3200.0,0,Sales,Purchases
+CAM-500LCD,INSULATED BEVERAGE SERVER - 18 LITER,CaterMarket,True,EACH,4435.0,5100.25,True,,,,,,,,,,,,,Standard Rate,Standard Rate,3520.0,0,Sales,Purchases
+CAM-UPC400/401,INSULATED FOOD PAN CARRIER - UPC400,CaterMarket,True,EACH,6451.0,7418.65,True,,,,,,,,,,,,,Standard Rate,Standard Rate,5120.0,0,Sales,Purchases
+CAM-UPC800/401,INSULATED FOOD PAN CARRIER - UPC800,CaterMarket,True,EACH,20160.0,23184.0,True,,,,,,,,,,,,,Standard Rate,Standard Rate,16000.0,0,Sales,Purchases
+CBC0014,COFFEE BREWER - 14LT - STAINLESS STEEL,CaterMarket,True,EACH,2822.0,3245.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2400.0,-1,Sales,Purchases
+CBC0014-B,COFFEE BREWER - 14LT - BLACK,CaterMarket,True,EACH,2999.0,3448.85,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2550.0,0,Sales,Purchases
+CBC0018-B,COFFEE BREWER - 18LT - BLACK,CaterMarket,True,EACH,3352.0,3854.8,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2850.0,0,Sales,Purchases
+CBS0000,CHIPPER BRIDGE,CaterMarket,True,EACH,680.0,782.0,True,,,,,,,,,,,,,Standard Rate,Standard Rate,540.0,0,Sales,Purchases
+CBS1001,CONE BAKER SINGLE,CaterMarket,True,EACH,1588.0,1826.2,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1350.0,0,Sales,Purchases
+CBS1002,CONE BAKER DOUBLE,CaterMarket,True,EACH,2999.0,3448.85,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2550.0,0,Sales,Purchases
+CDS1000,CHIP DUMP,CaterMarket,True,EACH,2822.0,3245.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2400.0,-13,Sales,Purchases
+CDS2000,CHIP DUMP / PACKING STATION,CaterMarket,True,EACH,7232.0,8316.8,True,,,,,,,,,,,,,Standard Rate,Standard Rate,6150.0,0,Sales,Purchases
+CGS0002,CONTACT GRILL - NON-STICK FLAT PLATES,CaterMarket,True,EACH,2646.0,3042.9,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2250.0,0,Sales,Purchases
+CGS1002,CONTACT GRILL - NON-STICK RIBBED PLATES,CaterMarket,True,EACH,2646.0,3042.9,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2250.0,-1,Sales,Purchases
+CHS0006,CHIPPER 14MM / 6 HOLE,CaterMarket,True,EACH,1411.0,1622.65,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1200.0,0,Sales,Purchases
+CHS0007,CHIPPER 12MM / 7 HOLE,CaterMarket,True,EACH,1411.0,1622.65,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1200.0,0,Sales,Purchases
+CKF0002,CLEANING KIT - 2 PIECE,CaterMarket,True,EACH,2999.0,3448.85,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2550.0,0,Sales,Purchases
+CKF0005,CLEANING KIT - 5 PIECE,CaterMarket,True,EACH,2999.0,3448.85,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2550.0,0,Sales,Purchases
+CMB1018,COFFEE MACHINE SINGLE 1.8LT,CaterMarket,True,EACH,3175.0,3651.25,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2700.0,0,Sales,Purchases
+CMS0001,CREPE MAKER SINGLE,CaterMarket,True,EACH,3704.0,4259.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,3150.0,0,Sales,Purchases
+COB-RX10D,CONVECTION OVEN 10 PAN,CaterMarket,True,EACH,66150.0,76072.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,56250.0,0,Sales,Purchases
+COB-RX6D,CONVECTION OVEN 6 PAN,CaterMarket,True,EACH,55125.0,63393.75,True,,,,,,,,,,,,,Standard Rate,Standard Rate,46875.0,0,Sales,Purchases
+COS-GB-1604-H,4 PAN CONVECTION OVEN WITH HUMIDIFICATION - 1/1GN & 600X400MM,CaterMarket,True,EACH,26284.0,30226.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,22350.0,0,Sales,Purchases
+COS-GN-1104-H,4 PAN CONVECTION OVEN WITH HUMIDIFICATION - 1/1GN,CaterMarket,True,EACH,15523.0,17851.45,True,,,,,,,,,,,,,Standard Rate,Standard Rate,13200.0,0,Sales,Purchases
+COS-GN-1204,4 PAN CONVECTION OVEN - 1/2GN,CaterMarket,True,EACH,6703.0,7708.45,True,,,,,,,,,,,,,Standard Rate,Standard Rate,5700.0,0,Sales,Purchases
+COS-GN-2304,4 PAN CONVECTION OVEN - 2/3GN,CaterMarket,True,EACH,7585.0,8722.75,True,,,,,,,,,,,,,Standard Rate,Standard Rate,6450.0,0,Sales,Purchases
+COS-GR-4530-03,3 PAN CONVECTION OVEN WITH GRILL & HUMIDIFICATION - 450X300MM,CaterMarket,True,EACH,4851.0,5578.65,True,,,,,,,,,,,,,Standard Rate,Standard Rate,4125.0,0,Sales,Purchases
+COS0004,4 PAN CONVECTION OVEN,CaterMarket,True,EACH,7232.0,8316.8,True,,,,,,,,,,,,,Standard Rate,Standard Rate,6150.0,0,Sales,Purchases
+CR/ATCB-24,600MM / 2 BURNER CHAR GRILLER,CaterMarket,True,EACH,12172.0,13997.8,True,,,,,,,,,,,,,Standard Rate,Standard Rate,10350.0,0,Sales,Purchases
+CR/ATCB-36,900MM / 3 BURNER CHAR GRILLER,CaterMarket,True,EACH,17464.0,20083.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,14850.0,0,Sales,Purchases
+CR/ATFS-40,GAS FRYER SINGLE 20LT - FLOOR STANDING,CaterMarket,True,EACH,19404.0,22314.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,16500.0,-7,Sales,Purchases
+CR/ATFS-75,GAS FRYER SINGLE 35LT - FLOOR STANDING,CaterMarket,True,EACH,26284.0,30226.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,22350.0,-1,Sales,Purchases
+CR/ATHP-12-2,2 BURNER GAS BOILING TABLE,CaterMarket,True,EACH,6703.0,7708.45,True,,,,,,,,,,,,,Standard Rate,Standard Rate,5700.0,0,Sales,Purchases
+CR/ATHP-24-4,4 BURNER GAS BOILING TABLE,CaterMarket,True,EACH,10937.0,12577.55,True,,,,,,,,,,,,,Standard Rate,Standard Rate,9300.0,-1,Sales,Purchases
+CR/ATHP-36-6,6 BURNER GAS BOILING TABLE,CaterMarket,True,EACH,14818.0,17040.7,True,,,,,,,,,,,,,Standard Rate,Standard Rate,12600.0,0,Sales,Purchases
+CR/ATMG-24,600MM / 2 BURNER FLAT TOP GRIDDLE,CaterMarket,True,EACH,11113.0,12779.95,True,,,,,,,,,,,,,Standard Rate,Standard Rate,9450.0,0,Sales,Purchases
+CR/ATMG-36,900MM / 3 BURNER FLAT TOP GRIDDLE,CaterMarket,True,EACH,15347.0,17649.05,True,,,,,,,,,,,,,Standard Rate,Standard Rate,13050.0,-1,Sales,Purchases
+CR/ATO-4B,4 BURNER GAS COOKING RANGE WITH OVEN,CaterMarket,True,EACH,29282.0,33674.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,24900.0,-3,Sales,Purchases
+CR/ATO-6B,6 BURNER GAS COOKING RANGE WITH OVEN,CaterMarket,True,EACH,36691.0,42194.65,True,,,,,,,,,,,,,Standard Rate,Standard Rate,31200.0,-3,Sales,Purchases
+CR/ATRC-24,600MM / 2 BURNER RADIENT GRILLER,CaterMarket,True,EACH,11466.0,13185.9,True,,,,,,,,,,,,,Standard Rate,Standard Rate,9750.0,0,Sales,Purchases
+CR/ATRC-36,900MM / 3 BURNER RADIENT GRILLER,CaterMarket,True,EACH,16582.0,19069.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,14100.0,0,Sales,Purchases
+CR/ATSB-36,SALAMANDER WITH LEVER LIFT GRID - GAS,CaterMarket,True,EACH,15876.0,18257.4,True,,,,,,,,,,,,,Standard Rate,Standard Rate,13500.0,0,Sales,Purchases
+CR/ATSE-2824,STAND - 610MM,CaterMarket,True,EACH,3175.0,3651.25,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2700.0,-1,Sales,Purchases
+CR/ATSE-2836,STAND - 915MM,CaterMarket,True,EACH,3704.0,4259.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,3150.0,0,Sales,Purchases
+CR/ATSE-2848,STAND - 1220mm,CaterMarket,True,EACH,4057.0,4665.55,True,,,,,,,,,,,,,Standard Rate,Standard Rate,3450.0,0,Sales,Purchases
+CR/GRID-4B,OVEN GRID - 500 x 642MM,CaterMarket,True,EACH,706.0,811.9,True,,,,,,,,,,,,,Standard Rate,Standard Rate,600.0,0,Sales,Purchases
+CR/GRID-6B,OVEN GRID - 665 x 642MM,CaterMarket,True,EACH,882.0,1014.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,750.0,0,Sales,Purchases
+CR/MGF8450GR,CHEF BASE WITH DRAWERS - 1230MM,CaterMarket,True,EACH,30341.0,34892.15,True,,,,,,,,,,,,,Standard Rate,Standard Rate,25800.0,0,Sales,Purchases
+CR/MGF8453GR,CHEF BASE WITH DRAWERS - 1840MM,CaterMarket,True,EACH,43924.0,50512.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,37350.0,0,Sales,Purchases
+CRY-CRW1000,HOODTYPE DISHWASHER,CaterMarket,True,EACH,47628.0,54772.2,True,,,,,,,,,,,,,Standard Rate,Standard Rate,40500.0,0,Sales,Purchases
+CRY-CRW1000.T,HOODTYPE DISHWASHER WITH DRAIN PUMP,CaterMarket,True,EACH,53802.0,61872.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,45750.0,-1,Sales,Purchases
+CRY-CRW1000.TPD,HOODTYPE DISHWASHER WITH DRAIN AND DETERGENT PUMPS,CaterMarket,True,EACH,59976.0,68972.4,True,,,,,,,,,,,,,Standard Rate,Standard Rate,51000.0,-1,Sales,Purchases
+CRY-CRW500.T,FRONT LOADING DISHWASHER WITH DRAIN PUMP,CaterMarket,True,EACH,34398.0,39557.7,True,,,,,,,,,,,,,Standard Rate,Standard Rate,29250.0,-1,Sales,Purchases
+CRY-CRW500.TPD,FRONT LOADING DISHWASHER WITH DRAIN AND DETERGENT PUMPS,CaterMarket,True,EACH,39690.0,45643.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,33750.0,0,Sales,Purchases
+CRY-CRWD1000,HOODTYPE DISHWASHER - DIGITAL,CaterMarket,True,EACH,47628.0,54772.2,True,,,,,,,,,,,,,Standard Rate,Standard Rate,40500.0,-1,Sales,Purchases
+CRY-ECO-E1400D,DOUBLE DOOR UPRIGHT FREEZER,CaterMarket,True,EACH,45864.0,52743.6,True,,,,,,,,,,False,False,False,Standard Rate,Standard Rate,39000.0,0,Sales,Purchases
+CRY-ECO-E700D,FREEZER SINGLE DOOR UPRIGHT,CaterMarket,True,EACH,32105.0,36920.75,True,,,,,,,,,,False,False,False,Standard Rate,Standard Rate,27300.0,0,Sales,Purchases
+CRYGR-CR600,SINGLE GLASS DOOR UPRIGHT FRIDGE,CaterMarket,True,EACH,26284.0,30226.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,22350.0,0,Sales,Purchases
+CRYGR-CRF400,SINGLE GLASS DOOR UPRIGHT FREEZER,CaterMarket,True,EACH,26284.0,30226.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,22350.0,0,Sales,Purchases
+CRYGR-CRTF70,DISPLAY FREEZER - TABLE MODEL,CaterMarket,True,EACH,13054.0,15012.1,True,,,,,,,,,,,,,Standard Rate,Standard Rate,11100.0,0,Sales,Purchases
+CRYGR-EKTO-BASK,BASKET FOR SLIDING GLASS TOP FREEZER,CaterMarket,True,EACH,353.0,405.95,True,,,,,,,,,,,,,Standard Rate,Standard Rate,300.0,0,Sales,Purchases
+CRYGR-EKTO36SGL,CHEST FREEZER WITH SLIDING GLASS TOP - 356LT,CaterMarket,True,EACH,14641.0,16837.15,True,,,,,,,,,,,,,Standard Rate,Standard Rate,12450.0,0,Sales,Purchases
+CRYGR-EKTO56SGL,CHEST FREEZER WITH SLIDING GLASS TOP - 535LT,CaterMarket,True,EACH,17464.0,20083.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,14850.0,0,Sales,Purchases
+CRYGR-ELEGANT36,ICE CREAM SCHOOP FREEZER,CaterMarket,True,EACH,35104.0,40369.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,29850.0,0,Sales,Purchases
+CRYGR-ELEGANT56,ICE CREAM SCHOOP FREEZER,CaterMarket,True,EACH,40396.0,46455.4,True,,,,,,,,,,,,,Standard Rate,Standard Rate,34350.0,0,Sales,Purchases
+CRYGR-GELOBOX,FREEZER / GELATO STORAGE - WHITE,CaterMarket,True,EACH,34398.0,39557.7,True,,,,,,,,,,,,,Standard Rate,Standard Rate,29250.0,0,Sales,Purchases
+CSS-GB-1606,6 PAN COMBI STEAMER - 1/1GN & 600X400MM,CaterMarket,True,EACH,50803.0,58423.45,True,,,,,,,,,,,,,Standard Rate,Standard Rate,43200.0,0,Sales,Purchases
+CSS-M-2303,3 PAN MINI COMBI STEAMER - 2/3GN,CaterMarket,True,EACH,9702.0,11157.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,8250.0,0,Sales,Purchases
+CTS0064,STAINLESS STEEL COOLING RACK - 600 X 400,CaterMarket,True,EACH,529.0,608.35,True,,,,,,,,,,,,,Standard Rate,Standard Rate,450.0,0,Sales,Purchases
+CTS0300,CONVEYOR TOASTER - 300 SLICE,CaterMarket,True,EACH,7056.0,8114.4,True,,,,,,,,,,,,,Standard Rate,Standard Rate,6000.0,-2,Sales,Purchases
+CTS0450,CONVEYOR TOASTER - 450 SLICE(WIDE BELT),CaterMarket,True,EACH,9526.0,10954.9,True,,,,,,,,,,,,,Standard Rate,Standard Rate,8100.0,-1,Sales,Purchases
+DBT0004,DISHWASHER BASKET TROLLEY - 4 TIER,CaterMarket,True,EACH,1940.0,2231.0,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1650.0,0,Sales,Purchases
+DBT0007,DISHWASHER BASKET TROLLEY - 7 TIER,CaterMarket,True,EACH,2470.0,2840.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2100.0,0,Sales,Purchases
+DCG/ARC-100R,CAKE DISPLAY FRIDGE - TABLE MODEL - 3 TIER,CaterMarket,True,EACH,19404.0,22314.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,16500.0,-1,Sales,Purchases
+DCG/ARC-400R,CAKE DISPLAY FRIDGE - FLOOR STANDING - 5 TIER,CaterMarket,True,EACH,48863.0,56192.45,True,,,,,,,,,,,,,Standard Rate,Standard Rate,41550.0,0,Sales,Purchases
+DCG/WDF097D,REFRIGERATED DISPLAY CABINET CURVED - 0.9 METER,CaterMarket,True,EACH,38102.0,43817.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,32400.0,0,Sales,Purchases
+DCG/WDF097F,REFRIGERATED DISPLAY CABINET SQUARE - 0.9 METER,CaterMarket,True,EACH,39161.0,45035.15,True,,,,,,,,,,,,,Standard Rate,Standard Rate,33300.0,0,Sales,Purchases
+DCG/WDF097Z,REFRIGERATED DISPLAY CABINET SQUARE- 0.9 METER,CaterMarket,True,EACH,41983.0,48280.45,True,,,,,,,,,,,,,Standard Rate,Standard Rate,35700.0,0,Sales,Purchases
+DCG/WDF097ZSA11,NEUTRAL DISPLAY CABINET - 0.9 METER,CaterMarket,True,EACH,25402.0,29212.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,21600.0,0,Sales,Purchases
+DCG/WDF127D,REFRIGERATED DISPLAY CABINET CURVED - 1.2 METER,CaterMarket,True,EACH,39866.0,45845.9,True,,,,,,,,,,,,,Standard Rate,Standard Rate,33900.0,0,Sales,Purchases
+DCG/WDF127F,REFRIGERATED DISPLAY CABINET SQUARE - 1.2 METER,CaterMarket,True,EACH,41101.0,47266.15,True,,,,,,,,,,,,,Standard Rate,Standard Rate,34950.0,0,Sales,Purchases
+DCG/WDF127Z,REFRIGERATED DISPLAY CABINET SQUARE - 1.2 METER,CaterMarket,True,EACH,43042.0,49498.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,36600.0,-2,Sales,Purchases
+DCG/WDF127ZSA11,NEUTRAL DISPLAY CABINET - 1.2 METER,CaterMarket,True,EACH,28753.0,33065.95,True,,,,,,,,,,,,,Standard Rate,Standard Rate,24450.0,0,Sales,Purchases
+DCG/WDF157D,REFRIGERATED DISPLAY CABINET CURVED - 1.5 METER,CaterMarket,True,EACH,47452.0,54569.8,True,,,,,,,,,,,,,Standard Rate,Standard Rate,40350.0,0,Sales,Purchases
+DCG/WDF157Z,REFRIGERATED DISPLAY CABINET SQUARE - 1.5 METER,CaterMarket,True,EACH,49745.0,57206.75,True,,,,,,,,,,,,,Standard Rate,Standard Rate,42300.0,0,Sales,Purchases
+DCG/WDF157ZSA11,NEUTRAL DISPLAY CABINET - 1.5 METER,CaterMarket,True,EACH,32281.0,37123.15,True,,,,,,,,,,,,,Standard Rate,Standard Rate,27450.0,0,Sales,Purchases
+DCG/WHF150L,HEATED DISPLAY CABINET - 0.7 METER - TABLE MODEL,CaterMarket,True,EACH,10584.0,12171.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,9000.0,0,Sales,Purchases
+DCG/WHF200L,HEATED DISPLAY CABINET - 0.9 METER - TABLE MODEL,CaterMarket,True,EACH,11642.0,13388.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,9900.0,-1,Sales,Purchases
+DCG/WHY125L,HEATED DISPLAY CABINET - 0.7 M - TABLE MODEL - CURVED GLASS,,True,EACH,9702.0,11157.3,True,,,,,,,,,,False,False,False,Standard Rate,Standard Rate,8250.0,0,Sales,Purchases
+DCG/WHY160L,HEATED DISPLAY CABINET - 0.9 M - TABLE MODEL - CURVED GLASS,CaterMarket,True,EACH,10584.0,12171.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,9000.0,0,Sales,Purchases
+DCG/WTF120L,REFRIGERATED DISPLAY CABINET - 0.7 METER - TABLE MODEL,CaterMarket,True,EACH,16582.0,19069.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,14100.0,0,Sales,Purchases
+DCG/WTF160L,REFRIGERATED DISPLAY CABINET - 0.9 METER - TABLE MODEL,CaterMarket,True,EACH,19228.0,22112.2,True,,,,,,,,,,,,,Standard Rate,Standard Rate,16350.0,-1,Sales,Purchases
+DCG/WTY110L,REFRIGERATED DISPLAY CABINET - 0.7 M - TABLE MODEL - CURVED GLASS,,True,,15523.2,17851.68,True,,,,,,,,,,False,False,False,Standard Rate,Standard Rate,13200.0,0,Sales,Purchases
+DCG/WTY130L,REFRIGERATED DISPLAY CABINET - 0.9 M - TABLE MODEL - CURVED GLASS,CaterMarket,True,EACH,18346.0,21097.9,True,,,,,,,,,,,,,Standard Rate,Standard Rate,15600.0,0,Sales,Purchases
+DMB0010,DOUGH MIXER - 10LT - SINGLE PHASE,CaterMarket,True,EACH,11995.0,13794.25,True,,,,,,,,,,,,,Standard Rate,Standard Rate,10200.0,0,Sales,Purchases
+DMB0020,DOUGH MIXER - 20LT - SINGLE PHASE,CaterMarket,True,EACH,16934.0,19474.1,True,,,,,,,,,,,,,Standard Rate,Standard Rate,14400.0,0,Sales,Purchases
+DMB0030,DOUGH MIXER - 30LT - SINGLE PHASE,CaterMarket,True,EACH,19404.0,22314.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,16500.0,0,Sales,Purchases
+DMB0050,DOUGH MIXER - 50LT - THREE PHASE,CaterMarket,True,EACH,28930.0,33269.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,24600.0,0,Sales,Purchases
+DMP1020,DOUGH MIXER - 20LT - SINGLE PHASE,CaterMarket,True,EACH,23108.0,26574.2,True,,,,,,,,,,,,,Standard Rate,Standard Rate,19650.0,0,Sales,Purchases
+DMP1030,DOUGH MIXER - 30LT - SINGLE PHASE,CaterMarket,True,EACH,28224.0,32457.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,24000.0,0,Sales,Purchases
+DMP3030,DOUGH MIXER - 30LT - 3 PHASE,CaterMarket,True,EACH,28224.0,32457.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,24000.0,0,Sales,Purchases
+DMP3050,DOUGH MIXER - 50LT - 3 PHASE,CaterMarket,True,EACH,33516.0,38543.4,True,,,,,,,,,,,,,Standard Rate,Standard Rate,28500.0,0,Sales,Purchases
+DOB/1202G,GAS DECK OVEN - SINGLE DECK - 2 TRAYS PER DECK,CaterMarket,True,EACH,14553.0,16735.95,True,,,,,,,,,,,,,Standard Rate,Standard Rate,12375.0,-2,Sales,Purchases
+DOB/1303G,GAS DECK OVEN - SINGLE DECK - 3 TRAYS PER DECK,CaterMarket,True,EACH,20727.0,23836.05,True,,,,,,,,,,,,,Standard Rate,Standard Rate,17625.0,-3,Sales,Purchases
+DOB/2204G,GAS DECK OVEN - TWO DECK - 2 TRAYS PER DECK,CaterMarket,True,EACH,29635.0,34080.25,True,,,,,,,,,,,,,Standard Rate,Standard Rate,25200.0,0,Sales,Purchases
+DOB/2306G,GAS DECK OVEN - TWO DECK - 3 TRAYS PER DECK,CaterMarket,True,EACH,38808.0,44629.2,True,,,,,,,,,,,,,Standard Rate,Standard Rate,33000.0,0,Sales,Purchases
+DOB/3206G,GAS DECK OVEN - TRIPLE DECK - 2 TRAYS PER DECK,CaterMarket,True,EACH,42336.0,48686.4,True,,,,,,,,,,,,,Standard Rate,Standard Rate,36000.0,0,Sales,Purchases
+DOB/3309G,GAS DECK OVEN - TRIPLE DECK - 3 TRAYS PER DECK,CaterMarket,True,EACH,58212.0,66943.8,True,,,,,,,,,,,,,Standard Rate,Standard Rate,49500.0,-5,Sales,Purchases
+DOB/S3309,DECK OVEN WITH HUMIDIFICATION & STONE BASE - TRIPLE DECK - 3 TRAYS PER DECK,CaterMarket,True,EACH,97020.0,111573.0,True,,,,,,,,,,False,False,False,Standard Rate,Standard Rate,82500.0,-1,Sales,Purchases
+DOB1101,DECK OVEN - SINGLE DECK - 1 TRAY PER DECK,CaterMarket,True,EACH,5468.0,6288.2,True,,,,,,,,,,,,,Standard Rate,Standard Rate,4650.0,0,Sales,Purchases
+DOB2102,DECK OVEN - DOUBLE DECK - 1 TRAY PER DECK,CaterMarket,True,EACH,10055.0,11563.25,True,,,,,,,,,,,,,Standard Rate,Standard Rate,8550.0,0,Sales,Purchases
+DOB2204,DECK OVEN - DOUBLE DECK - 2 TRAYS PER DECK,CaterMarket,True,EACH,21874.0,25155.1,True,,,,,,,,,,,,,Standard Rate,Standard Rate,18600.0,0,Sales,Purchases
+DOB3206,DECK OVEN - TRIPLE DECK - 2 TRAYS PER DECK,CaterMarket,True,EACH,29459.0,33877.85,True,,,,,,,,,,,,,Standard Rate,Standard Rate,25050.0,0,Sales,Purchases
+DOB3309,DECK OVEN - TRIPLE DECK - 3 TRAYS PER DECK,CaterMarket,True,EACH,38455.0,44223.25,True,,,,,,,,,,,,,Standard Rate,Standard Rate,32700.0,-1,Sales,Purchases
+DOP0044,DECK OVEN DOUBLE 44,CaterMarket,True,EACH,44982.0,51729.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,38250.0,0,Sales,Purchases
+DOP0066,DECK OVEN DOUBLE 66,CaterMarket,True,EACH,60682.0,69784.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,51600.0,0,Sales,Purchases
+DTH0001,DISH AND TOTE BOX,CaterMarket,True,EACH,123.0,141.45,True,,,,,,,,,,,,,Standard Rate,Standard Rate,105.0,-8,Sales,Purchases
+DWB-AP0064,DISHWASHER BASKET - CUTLERY BASKET,CaterMarket,True,EACH,309.0,355.35,True,,,,,,,,,,,,,Standard Rate,Standard Rate,262.5,0,Sales,Purchases
+DWB-CH0001,DISHWASHER BASKET - 1 COMP CUTLERY BASKET,CaterMarket,True,EACH,62.0,71.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,52.5,0,Sales,Purchases
+DWB-CH0008,DISHWASHER BASKET - 8 COMP CUTLERY BASKET,CaterMarket,True,EACH,309.0,355.35,True,,,,,,,,,,,,,Standard Rate,Standard Rate,262.5,0,Sales,Purchases
+DWB-EX0000,DISHWASHER BASKET - 25 COMPARTMENT,CaterMarket,True,EACH,309.0,355.35,True,,,,,,,,,,,,,Standard Rate,Standard Rate,150.0,0,Sales,Purchases
+DWB-GR0016,DISHWASHER BASKET - 16 COMPARTMENT,CaterMarket,True,EACH,309.0,355.35,True,,,,,,,,,,,,,Standard Rate,Standard Rate,262.5,0,Sales,Purchases
+DWB-GR0016E,DISHWASHER BASKET - 16 COMP EXTENDER,CaterMarket,True,EACH,176.0,202.4,True,,,,,,,,,,,,,Standard Rate,Standard Rate,150.0,0,Sales,Purchases
+DWB-GR0020,DISHWASHER BASKET - 20 COMPARTMENT,CaterMarket,True,EACH,309.0,355.35,True,,,,,,,,,,,,,Standard Rate,Standard Rate,262.5,0,Sales,Purchases
+DWB-GR0025,DISHWASHER BASKET - 25 COMP EXTENDER,CaterMarket,True,EACH,176.0,202.4,True,,,,,,,,,,,,,Standard Rate,Standard Rate,262.5,0,Sales,Purchases
+DWB-GR0025E,DISHWASHER BASKET - 36 COMPARTMENT,CaterMarket,True,EACH,309.0,355.35,True,,,,,,,,,,,,,Standard Rate,Standard Rate,150.0,0,Sales,Purchases
+DWB-GR0036,DISHWASHER BASKET - 36 COMP EXTENDER,CaterMarket,True,EACH,176.0,202.4,True,,,,,,,,,,,,,Standard Rate,Standard Rate,262.5,0,Sales,Purchases
+DWB-GR0036E,DISHWASHER BASKET - 64 PEG PLATE RACK,CaterMarket,True,EACH,309.0,355.35,True,,,,,,,,,,,,,Standard Rate,Standard Rate,150.0,0,Sales,Purchases
+DWB-RD0000,DISHWASHER BASKET - RACK DOLLEY WITH HANDLE,CaterMarket,True,EACH,2911.0,3347.65,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2475.0,0,Sales,Purchases
+DWO0050,FRONT LOADING DISHWASHER WITH PC BOARD,CaterMarket,True,EACH,37485.0,43107.75,True,,,,,,,,,,,,,Standard Rate,Standard Rate,31875.0,0,Sales,Purchases
+DWO1009,HOODTYPE DISHWASHER,CaterMarket,True,EACH,65268.0,75058.2,True,,,,,,,,,,,,,Standard Rate,Standard Rate,55500.0,0,Sales,Purchases
+DWS-CSZ60C,HOODTYPE DISHWASHER SWASH,,True,EACH,44928.0,51667.2,True,,,,,,,,,,,,,Standard Rate,Standard Rate,38250.0,-1,Sales,Purchases
+DWS-CSZ60C-DP,HOODTYPE DISHWASHER WITH DRAIN PUMP,,True,EACH,50531.25,58110.94,True,,,,,,,,,,False,False,False,Standard Rate,Standard Rate,41250.0,0,Sales,Purchases
+EKCR16TC,16 TRAY BAKING TROLLEY WITH HANDLE,CaterMarket,True,EACH,48510.0,55786.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,41250.0,0,Sales,Purchases
+EKCR16TC,16 TRAY BAKING TROLLEY WITH HANDLE,CaterMarket,True,EACH,50531.25,58110.94,True,,,,,,,,,,,,,Standard Rate,Standard Rate,41250.0,0,Sales,Purchases
+EKCR16TC,16 TRAY BAKING TROLLEY WITH HANDLE,CaterMarket,True,EACH,50531.25,58110.94,True,,,,,,,,,,,,,Standard Rate,Standard Rate,41250.0,0,Sales,Purchases
+EKCR20TC,20 PAN GASTRONOMY TROLLEY WITH HANDLE,CaterMarket,True,EACH,48510.0,55786.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,41250.0,0,Sales,Purchases
+EKCR20TC,20 PAN GASTRONOMY TROLLEY WITH HANDLE,CaterMarket,True,EACH,50531.25,58110.94,True,,,,,,,,,,,,,Standard Rate,Standard Rate,41250.0,0,Sales,Purchases
+EKCR20TC,20 PAN GASTRONOMY TROLLEY WITH HANDLE,CaterMarket,True,EACH,50531.25,58110.94,True,,,,,,,,,,,,,Standard Rate,Standard Rate,41250.0,0,Sales,Purchases
+EKF416ALUD,RIGHT HAND HINGED DOOR (4 PAN) MANUAL CONTROL,CaterMarket,True,EACH,43042.0,49498.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,36600.0,0,Sales,Purchases
+EKF416DUD,4 PAN COMBI STEAMER DIGITAL CONTROL,CaterMarket,True,EACH,43042.0,49498.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,36600.0,0,Sales,Purchases
+EKF416N,4 PAN WITH HUMIDIFICATION MANUAL CONTROL,CaterMarket,True,EACH,30870.0,35500.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,26250.0,0,Sales,Purchases
+EKF416NALP,RIGHT HAND HINGED DOOR (4 PAN) MANUAL CONTROL,CaterMarket,True,EACH,31752.0,36514.8,True,,,,,,,,,,,,,Standard Rate,Standard Rate,27000.0,0,Sales,Purchases
+EKF416NP,BOTTOM HINGED DOOR (4 PAN) MANUAL CONTROL,CaterMarket,True,EACH,29106.0,33471.9,True,,,,,,,,,,,,,Standard Rate,Standard Rate,24750.0,0,Sales,Purchases
+EKF416UD,BOTTOM HINGED DOOR (4 PAN) MANUAL CONTROL,CaterMarket,True,EACH,39161.0,45035.15,True,,,,,,,,,,,,,Standard Rate,Standard Rate,33300.0,-1,Sales,Purchases
+EKF423NM,4 PAN MULTIFUNCTIONAL MANUAL CONTROL,CaterMarket,True,EACH,18346.0,21097.9,True,,,,,,,,,,,,,Standard Rate,Standard Rate,15600.0,0,Sales,Purchases
+EKF423NP,4 PAN MANUAL CONTROL,CaterMarket,True,EACH,10760.0,12374.0,True,,,,,,,,,,,,,Standard Rate,Standard Rate,9150.0,0,Sales,Purchases
+EKF523NTUD,5 PAN COMBI STEAMER - TOUCH CONTROL - 2/3 GN,CaterMarket,True,EACH,38102.0,43817.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,32400.0,0,Sales,Purchases
+EKF523NUD,5 PAN COMBI STEAMER - 2/3 GN,CaterMarket,True,EACH,32281.0,37123.15,True,,,,,,,,,,,,,Standard Rate,Standard Rate,27450.0,-1,Sales,Purchases
+EMP.PKF-40-AS,STAND FOR CHARCOAL OVEN - 710MM,CaterMarket,True,EACH,11642.0,13388.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,9900.0,0,Sales,Purchases
+EMP.PKF-40-D,CABINET FOR CHARCOAL OVEN - 710MM,CaterMarket,True,EACH,15170.0,17445.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,12900.0,0,Sales,Purchases
+EMP.PKF-40-K,CHARCOAL OVEN RED - 710mm,CaterMarket,True,EACH,97902.0,112587.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,83250.0,0,Sales,Purchases
+EMP.PKF-40-S,CHARCOAL OVEN BLACK - 710mm,CaterMarket,True,EACH,97902.0,112587.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,83250.0,0,Sales,Purchases
+EMP.PKF-40-US,TOP GRID FOR CHARCOAL OVEN - 710MM,CaterMarket,True,EACH,15170.0,17445.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,12900.0,0,Sales,Purchases
+EMP.PKF-50-AS,STAND FOR CHARCOAL OVEN - 890MM,CaterMarket,True,EACH,15523.0,17851.45,True,,,,,,,,,,,,,Standard Rate,Standard Rate,13200.0,0,Sales,Purchases
+EMP.PKF-50-D,CABINET FOR CHARCOAL OVEN - 890MM,CaterMarket,True,EACH,17464.0,20083.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,14850.0,0,Sales,Purchases
+EMP.PKF-50-K,CHARCOAL OVEN RED - 890mm,CaterMarket,True,EACH,130536.0,150116.4,True,,,,,,,,,,,,,Standard Rate,Standard Rate,111000.0,0,Sales,Purchases
+EMP.PKF-50-S,CHARCOAL OVEN BLACK- 890mm,CaterMarket,True,EACH,130536.0,150116.4,True,,,,,,,,,,,,,Standard Rate,Standard Rate,111000.0,0,Sales,Purchases
+EMP.PKF-50-US,TOP GRID FOR CHARCOAL OVEN - 890MM,CaterMarket,True,EACH,18698.0,21502.7,True,,,,,,,,,,,,,Standard Rate,Standard Rate,15900.0,0,Sales,Purchases
+FBS0012,FRYER BASKET - 235 X 335 X 150MM DEEP,CaterMarket,True,EACH,353.0,405.95,True,,,,,,,,,,,,,Standard Rate,Standard Rate,300.0,0,Sales,Purchases
+FBS0043,FRYER BASKET,CaterMarket,True,EACH,353.0,405.95,True,,,,,,,,,,,,,Standard Rate,Standard Rate,300.0,0,Sales,Purchases
+FBS0075,FRYER BASKET - 160 X 335 X 150MM DEEP,CaterMarket,True,EACH,265.0,304.75,True,,,,,,,,,,,,,Standard Rate,Standard Rate,225.0,0,Sales,Purchases
+FCS0009,FRY CUTTER 8/10/12MM,CaterMarket,True,EACH,1940.0,2231.0,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1650.0,0,Sales,Purchases
+FPS0100,FILTER PAPER - PACK OF 100,CaterMarket,True,EACH,1058.0,1216.7,True,,,,,,,,,,,,,Standard Rate,Standard Rate,900.0,0,Sales,Purchases
+FSG0040,GAS FRYER SINGLE 20LT - FLOOR STANDING,CaterMarket,True,EACH,15523.0,17851.45,True,,,,,,,,,,,,,Standard Rate,Standard Rate,13200.0,-1,Sales,Purchases
+FTS0550,FLAT TOP GRIDDLE - 550MM,CaterMarket,True,EACH,2293.0,2636.95,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1950.0,0,Sales,Purchases
+FTS0730,FLAT TOP GRIDDLE - 730MM,CaterMarket,True,EACH,3175.0,3651.25,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2700.0,0,Sales,Purchases
+FUR-ECO-S,DELIVERY/PIZZA BAG - ECONO - 4 PIZZA,CaterMarket,True,EACH,706.0,811.9,True,,,,,,,,,,,,,Standard Rate,Standard Rate,600.0,0,Sales,Purchases
+FUR-HP-TS,HEATING PAD,CaterMarket,True,EACH,1411.0,1622.65,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1200.0,0,Sales,Purchases
+FUR-T4S-NM,DELIVERY/PIZZA BAG - 4 PIZZA,CaterMarket,True,EACH,1235.0,1420.25,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1050.0,0,Sales,Purchases
+FUR-T8S-B+F,DELIVERY/PIZZA BAG WITH STIFFENING FRAME - 8 PIZZA,CaterMarket,True,EACH,2822.0,3245.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2400.0,0,Sales,Purchases
+FUR-T8S-NM,DELIVERY/PIZZA BAG - 8 PIZZA,CaterMarket,True,EACH,1940.0,2231.0,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1650.0,0,Sales,Purchases
+GN2T8000,2/3 GN - LID,CaterMarket,True,EACH,154.0,177.1,True,,,,,,,,,,,,,Standard Rate,Standard Rate,131.25,0,Sales,Purchases
+GN2T8020,2/3 GN INSERT - 20MM DEEP,CaterMarket,True,EACH,150.0,172.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,127.5,-10,Sales,Purchases
+GN2T8040.P,2/3 GN INSERT - 40MM DEEP (PERFORATED),CaterMarket,True,EACH,194.0,223.1,True,,,,,,,,,,,,,Standard Rate,Standard Rate,165.0,0,Sales,Purchases
+GN2T8065,2/3 GN INSERT - 65MM DEEP,CaterMarket,True,EACH,185.0,212.75,True,,,,,,,,,,,,,Standard Rate,Standard Rate,157.5,-5,Sales,Purchases
+GN2T8150,2/3 GN INSERT - 150MM DEEP,CaterMarket,True,EACH,362.0,416.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,307.5,0,Sales,Purchases
+GNF8000,1/1 GN - LID,CaterMarket,True,EACH,198.0,227.7,True,,,,,,,,,,,,,Standard Rate,Standard Rate,168.75,0,Sales,Purchases
+GNF8020,1/1 GN INSERT - 20MM DEEP,CaterMarket,True,EACH,128.0,147.2,True,,,,,,,,,,,,,Standard Rate,Standard Rate,108.75,0,Sales,Purchases
+GNF8040,1/1 GN INSERT - 40MM DEEP,CaterMarket,True,EACH,221.0,254.15,True,,,,,,,,,,,,,Standard Rate,Standard Rate,187.5,0,Sales,Purchases
+GNF8040.P,1/1 GN INSERT - 40MM DEEP - PERFORATED,CaterMarket,True,EACH,273.0,313.95,True,,,,,,,,,,,,,Standard Rate,Standard Rate,232.5,0,Sales,Purchases
+GNF8055,1/1 GN INSERT - 55MM DEEP,CaterMarket,True,EACH,185.0,212.75,True,,,,,,,,,,,,,Standard Rate,Standard Rate,157.5,-19,Sales,Purchases
+GNF8055.P,1/1 GN INSERT - 55MM DEEP - PERFORATED,CaterMarket,True,EACH,221.0,254.15,True,,,,,,,,,,,,,Standard Rate,Standard Rate,187.5,-20,Sales,Purchases
+GNF8065,1/1 GN INSERT - 65MM DEEP,CaterMarket,True,EACH,194.0,223.1,True,,,,,,,,,,,,,Standard Rate,Standard Rate,165.0,0,Sales,Purchases
+GNF8065.P,1/1 GN INSERT - 65MM DEEP - PERFORATED,CaterMarket,True,EACH,273.0,313.95,True,,,,,,,,,,,,,Standard Rate,Standard Rate,232.5,0,Sales,Purchases
+GNF8100,1/1 GN INSERT - 100MM DEEP,CaterMarket,True,EACH,287.0,330.05,True,,,,,,,,,,,,,Standard Rate,Standard Rate,243.75,0,Sales,Purchases
+GNF8150,1/1 GN INSERT - 150MM DEEP,CaterMarket,True,EACH,454.0,522.1,True,,,,,,,,,,,,,Standard Rate,Standard Rate,386.25,0,Sales,Purchases
+GNH8000,1/2 GN - LID,CaterMarket,True,EACH,123.0,141.45,True,,,,,,,,,,,,,Standard Rate,Standard Rate,105.0,0,Sales,Purchases
+GNH8065,1/2 GN INSERT - 65MM DEEP,CaterMarket,True,EACH,141.0,162.15,True,,,,,,,,,,,,,Standard Rate,Standard Rate,120.0,0,Sales,Purchases
+GNH8100,1/2 GN INSERT - 100MM DEEP,CaterMarket,True,EACH,159.0,182.85,True,,,,,,,,,,,,,Standard Rate,Standard Rate,135.0,0,Sales,Purchases
+GNH8150,1/2 GN INSERT - 150MM DEEP,CaterMarket,True,EACH,190.0,218.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,161.25,0,Sales,Purchases
+GNHL6065,2/4 GN INSERT - 65MM DEEP,CaterMarket,True,EACH,181.0,208.15,True,,,,,,,,,,,,,Standard Rate,Standard Rate,153.75,0,Sales,Purchases
+GNI8120,ICE CREAM INSERT - 360 X 165 X 120MM DEEP,CaterMarket,True,EACH,309.0,355.35,True,,,,,,,,,,,,,Standard Rate,Standard Rate,262.5,0,Sales,Purchases
+GNN8000,1/9 GN - LID,CaterMarket,True,EACH,49.0,56.35,True,,,,,,,,,,,,,Standard Rate,Standard Rate,41.25,-4,Sales,Purchases
+GNN8100,1/9 GN INSERT - 100MM DEEP,CaterMarket,True,EACH,207.0,238.05,True,,,,,,,,,,,,,Standard Rate,Standard Rate,176.25,-4,Sales,Purchases
+GNQ8000,1/4 GN - LID,CaterMarket,True,EACH,79.0,90.85,True,,,,,,,,,,,,,Standard Rate,Standard Rate,67.5,-8,Sales,Purchases
+GNQ8065,1/4 GN INSERT - 65MM DEEP,CaterMarket,True,EACH,75.0,86.25,True,,,,,,,,,,,,,Standard Rate,Standard Rate,63.75,0,Sales,Purchases
+GNQ8150,1/4 GN INSERT - 150MM DEEP,CaterMarket,True,EACH,101.0,116.15,True,,,,,,,,,,,,,Standard Rate,Standard Rate,86.25,-20,Sales,Purchases
+GNS8000,1/6 GN - LID,CaterMarket,True,EACH,53.0,60.95,True,,,,,,,,,,,,,Standard Rate,Standard Rate,45.0,0,Sales,Purchases
+GNS8065,1/6 GN INSERT - 65MM DEEP,CaterMarket,True,EACH,119.0,136.85,True,,,,,,,,,,,,,Standard Rate,Standard Rate,101.25,0,Sales,Purchases
+GNS8100,1/6 GN INSERT - 100MM DEEP,CaterMarket,True,EACH,150.0,172.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,127.5,0,Sales,Purchases
+GNS8150,1/6 GN INSERT - 150MM DEEP,CaterMarket,True,EACH,207.0,238.05,True,,,,,,,,,,,,,Standard Rate,Standard Rate,176.25,0,Sales,Purchases
+GNT1-16-16,1/1 G/N & BAKING TRAY TROLLEY - 16 TIER,CaterMarket,True,EACH,5116.0,5883.4,True,,,,,,,,,,,,,Standard Rate,Standard Rate,4350.0,-1,Sales,Purchases
+GNT1-6-11,1/1 G/N TROLLEY - 1 X 6 TIER,CaterMarket,True,EACH,1940.0,2231.0,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1650.0,0,Sales,Purchases
+GNT1-7-11,1/1 G/N TROLLEY - 1 X 7 TIER,CaterMarket,True,EACH,2822.0,3245.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2400.0,0,Sales,Purchases
+GNT1-7-21,2/1 G/N TROLLEY - 7 TIER,CaterMarket,True,EACH,3352.0,3854.8,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2850.0,0,Sales,Purchases
+GNT2-16-11,1/1 G/N TROLLEY - 2 X 16 TIER,CaterMarket,True,EACH,7365.0,8469.75,True,,,,,,,,,,,,,Standard Rate,Standard Rate,6262.5,0,Sales,Purchases
+GNT8000,1/3 GN - LID,CaterMarket,True,EACH,88.0,101.2,True,,,,,,,,,,,,,Standard Rate,Standard Rate,75.0,0,Sales,Purchases
+GNT8040,1/3 GN INSERT - 40MM DEEP,CaterMarket,True,EACH,88.0,101.2,True,,,,,,,,,,,,,Standard Rate,Standard Rate,75.0,0,Sales,Purchases
+GNT8065,1/3 GN INSERT - 65MM DEEP,CaterMarket,True,EACH,110.0,126.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,93.75,0,Sales,Purchases
+GNT8100,1/3 GN INSERT - 100MM DEEP,CaterMarket,True,EACH,163.0,187.45,True,,,,,,,,,,,,,Standard Rate,Standard Rate,138.75,0,Sales,Purchases
+GNT8150,1/3 GN INSERT - 150MM DEEP,CaterMarket,True,EACH,251.0,288.65,True,,,,,,,,,,,,,Standard Rate,Standard Rate,213.75,0,Sales,Purchases
+GSB0001,GRILLING STONES - 20KG,CaterMarket,True,EACH,227.0,261.05,True,,,,,,,,,,,,,Standard Rate,Standard Rate,180.0,0,Sales,Purchases
+HCP0005,HOT CHOCOLATE MACHINE - 5LT,CaterMarket,True,EACH,5821.0,6694.15,True,,,,,,,,,,,,,Standard Rate,Standard Rate,4950.0,0,Sales,Purchases
+HDP0066,HOOD FOR DOUBLE DECK OVEN,CaterMarket,True,EACH,7056.0,8114.4,True,,,,,,,,,,,,,Standard Rate,Standard Rate,6000.0,0,Sales,Purchases
+HPS0100,HAMBURGER PATTY PRESS - 100MM,CaterMarket,True,EACH,2293.0,2636.95,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1950.0,0,Sales,Purchases
+HPS0130,HAMBURGER PATTY PRESS - 130MM,CaterMarket,True,EACH,2470.0,2840.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2100.0,0,Sales,Purchases
+HSM1200,HEAT SEALING MACHINE - 200MM,CaterMarket,True,EACH,441.0,507.15,True,,,,,,,,,,,,,Standard Rate,Standard Rate,375.0,0,Sales,Purchases
+HSM1300,HEAT SEALING MACHINE - 300MM,CaterMarket,True,EACH,706.0,811.9,True,,,,,,,,,,,,,Standard Rate,Standard Rate,600.0,0,Sales,Purchases
+HSM1400,HEAT SEALING MACHINE - 400MM,CaterMarket,True,EACH,882.0,1014.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,750.0,0,Sales,Purchases
+HWS0000,HAND WASH BASIN - BASIN ONLY,CaterMarket,True,EACH,1058.0,1216.7,True,,,,,,,,,,,,,Standard Rate,Standard Rate,900.0,0,Sales,Purchases
+HWS0001,HAND WASH BASIN - KNEE OPERATED WITH SPLASHBACK,CaterMarket,True,EACH,3175.0,3651.25,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2700.0,-46,Sales,Purchases
+HWS0002,HAND WASH BASIN - KNEE OPERATED WITHOUT SPLASHBACK,,True,EACH,3400.0,3910.0,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2550.0,0,Sales,Purchases
+ICJ0001,ICE CRUSHER JOHNY,CaterMarket,True,EACH,12172.0,13997.8,True,,,,,,,,,,,,,Standard Rate,Standard Rate,10350.0,0,Sales,Purchases
+ICM/BQ12T,ICE CREAM MACHINE,CaterMarket,True,EACH,25402.0,29212.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,21600.0,-1,Sales,Purchases
+IGL3001,90? NEUTRAL CORNER UNIT - LEFT,CaterMarket,True,EACH,7056.0,8114.4,True,,,,,,,,,,,,,Standard Rate,Standard Rate,6000.0,0,Sales,Purchases
+IGL3002,90? NEUTRAL CORNER UNIT - RIGHT,CaterMarket,True,EACH,7056.0,8114.4,True,,,,,,,,,,,,,Standard Rate,Standard Rate,6000.0,0,Sales,Purchases
+IGL3006,REFRIGERATED MERCHANDISER - 0.6 METER,CaterMarket,True,EACH,45688.0,52541.2,True,,,,,,,,,,,,,Standard Rate,Standard Rate,38850.0,0,Sales,Purchases
+IGL3009,REFRIGERATED MERCHANDISER - 0.9 METER,CaterMarket,True,EACH,56272.0,64712.8,True,,,,,,,,,,,,,Standard Rate,Standard Rate,47850.0,0,Sales,Purchases
+IGL5009,OPEN COOLER MERCHANDISER - 0.9 METER,CaterMarket,True,EACH,54860.0,63089.0,True,,,,,,,,,,,,,Standard Rate,Standard Rate,46650.0,0,Sales,Purchases
+IGL5013,OPEN COOLER MERCHANDISER - 1.2 METER,CaterMarket,True,EACH,64210.0,73841.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,54600.0,0,Sales,Purchases
+IGL8006,REFRIGERATED DISPLAY CABINET - 0.6 METER,CaterMarket,True,EACH,46570.0,53555.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,39600.0,0,Sales,Purchases
+IGL8006-SL,REFRIGERATED DISPLAY CABINET - 0.6 METER - SLIM LINE,CaterMarket,True,EACH,45864.0,52743.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,39000.0,0,Sales,Purchases
+IGL8009,REFRIGERATED DISPLAY CABINET - 0.9 METER,CaterMarket,True,EACH,54508.0,62684.2,True,,,,,,,,,,,,,Standard Rate,Standard Rate,46350.0,0,Sales,Purchases
+IGL8009-SL,REFRIGERATED DISPLAY CABINET - 0.9 METER - SLIM LINE,CaterMarket,True,EACH,52567.0,60452.05,True,,,,,,,,,,,,,Standard Rate,Standard Rate,44700.0,0,Sales,Purchases
+IGL8013-SL,REFRIGERATED DISPLAY CABINET - 1.3 METER,CaterMarket,True,EACH,63504.0,73029.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,54000.0,0,Sales,Purchases
+IGL8106,HEATED DISPLAY CABINET - 0.6 METER,CaterMarket,True,EACH,40572.0,46657.8,True,,,,,,,,,,,,,Standard Rate,Standard Rate,34500.0,0,Sales,Purchases
+IGL8109,HEATED DISPLAY CABINET - 0.9 METER,CaterMarket,True,EACH,45688.0,52541.2,True,,,,,,,,,,,,,Standard Rate,Standard Rate,38850.0,0,Sales,Purchases
+IGL8113-SL,HEATED DISPLAY CABINET - 1.3 METER,CaterMarket,True,EACH,60682.0,69784.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,51600.0,0,Sales,Purchases
+IGL8206,NEUTRAL DISPLAY CABINET - 0.6 METER,CaterMarket,True,EACH,27166.0,31240.9,True,,,,,,,,,,,,,Standard Rate,Standard Rate,23100.0,0,Sales,Purchases
+IGL8206-SL,NEUTRAL DISPLAY CABINET - 0.6 METER - SLIM LINE,CaterMarket,True,EACH,26284.0,30226.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,22350.0,0,Sales,Purchases
+IGL8209,NEUTRAL DISPLAY CABINET - 0.9 METER,CaterMarket,True,EACH,31223.0,35906.45,True,,,,,,,,,,,,,Standard Rate,Standard Rate,26550.0,0,Sales,Purchases
+IGL8209-SL,NEUTRAL DISPLAY CABINET - 0.9 METER - SLIM LINE,CaterMarket,True,EACH,28753.0,33065.95,True,,,,,,,,,,,,,Standard Rate,Standard Rate,24450.0,0,Sales,Purchases
+IGL8812,SNEEZEGUARD (SQUARE GLASS 1.2m),CaterMarket,True,EACH,7056.0,8114.4,True,,,,,,,,,,,,,Standard Rate,Standard Rate,6000.0,0,Sales,Purchases
+IGL8812-SH,SELF HELP FRONT GLASS CONVERTION,CaterMarket,True,EACH,1588.0,1826.2,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1350.0,0,Sales,Purchases
+IGL8815,SNEEZEGUARD (SQUARE GLASS 1.5m),CaterMarket,True,EACH,8114.0,9331.1,True,,,,,,,,,,,,,Standard Rate,Standard Rate,6900.0,0,Sales,Purchases
+IGL8818,SNEEZEGUARD (SQUARE GLASS 1.8m),CaterMarket,True,EACH,9702.0,11157.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,8250.0,0,Sales,Purchases
+IGL8818-SH,SELF HELP FRONT GLASS CONVERTION,CaterMarket,True,EACH,2117.0,2434.55,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1800.0,0,Sales,Purchases
+IGL9010,OPEN COOLER MERCHANDISER 1.0 METER - BLACK,CaterMarket,True,EACH,71442.0,82158.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,60750.0,0,Sales,Purchases
+IGL9010.B,MERCHANDISER WITH DOORS 1.0 METER - BLACK,CaterMarket,True,EACH,73206.0,84186.9,True,,,,,,,,,,,,,Standard Rate,Standard Rate,62250.0,0,Sales,Purchases
+IGL9013-B,OPEN COOLER MERCHANDISER - 1.3 METER - BLACK,CaterMarket,True,EACH,59976.0,68972.4,True,,,,,,,,,,False,False,False,Standard Rate,Standard Rate,51000.0,0,Sales,Purchases
+IMB/EFM500A,MODULAR ICE MACHINE - 400KG,CaterMarket,True,EACH,89539.0,102969.85,True,,,,,,,,,,,,,Standard Rate,Standard Rate,75800.0,0,Sales,Purchases
+IMP/BIN/140B,ICE MACHINE BIN - 140KG,CaterMarket,True,EACH,10760.0,12374.0,True,,,,,,,,,,,,,Standard Rate,Standard Rate,9150.0,0,Sales,Purchases
+IMP/BIN/200B,ICE MACHINE BIN - 200KG,CaterMarket,True,EACH,11466.0,13185.9,True,,,,,,,,,,,,,Standard Rate,Standard Rate,9750.0,0,Sales,Purchases
+IMP/BIN/600B,ICE MACHINE BIN - 600KG,CaterMarket,True,EACH,15347.0,17649.05,True,,,,,,,,,,,,,Standard Rate,Standard Rate,13050.0,0,Sales,Purchases
+IMP/DP,DRAIN PUMP FOR SELF-CONTAINED ICE MACHINE,CaterMarket,True,EACH,1940.0,2231.0,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1650.0,0,Sales,Purchases
+IMP/LB1000TA,MODULAR ICE MACHINE - 450KG,CaterMarket,True,EACH,64210.0,73841.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,54600.0,0,Sales,Purchases
+IMP/LB120S-C,SELF-CONTAINED ICE MACHINE - 60KG,CaterMarket,True,EACH,19580.0,22517.0,True,,,,,,,,,,,,,Standard Rate,Standard Rate,16650.0,0,Sales,Purchases
+IMP/LB400TA,MODULAR ICE MACHINE - 160KG,CaterMarket,True,EACH,40043.0,46049.45,True,,,,,,,,,,,,,Standard Rate,Standard Rate,34050.0,0,Sales,Purchases
+IMP/LB55S-C,SELF-CONTAINED ICE MACHINE - 25KG,CaterMarket,True,EACH,13583.0,15620.45,True,,,,,,,,,,,,,Standard Rate,Standard Rate,11550.0,0,Sales,Purchases
+IMP/LB700TA,MODULAR ICE MACHINE - 300KG,CaterMarket,True,EACH,55213.0,63494.95,True,,,,,,,,,,,,,Standard Rate,Standard Rate,46950.0,0,Sales,Purchases
+IMP/LB80S-C,SELF-CONTAINED ICE MACHINE - 40KG,CaterMarket,True,EACH,16582.0,19069.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,14100.0,0,Sales,Purchases
+IMPGD/ZB-28,SELF-CONTAINED ICE MACHINE - 28KG BULLET ICE,CaterMarket,True,EACH,9702.0,11157.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,8250.0,1,Sales,Purchases
+ISC-BF100A,TABLE TOP MODEL - MANUAL CONTROL - RECTANGULAR,CaterMarket,True,EACH,2999.0,3448.85,True,,,,,,,,,,,,,Standard Rate,Standard Rate,2550.0,0,Sales,Purchases
+ISC-BT-200T1,DROP IN / COUNTERSUNK - TOUCH CONTROL - SQUARE,CaterMarket,True,EACH,1235.0,1420.25,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1050.0,0,Sales,Purchases
+ISC-BT-350K6-E,INDUCTION COOKER TABLE MODEL - 3.5kW,CaterMarket,True,EACH,3881.0,4463.15,True,,,,,,,,,,,,,Standard Rate,Standard Rate,3300.0,0,Sales,Purchases
+ISC-BT-350KCT2A,INDUCTION WOK TABLE MODEL - 3.5kW,CaterMarket,True,EACH,4234.0,4869.1,True,,,,,,,,,,,,,Standard Rate,Standard Rate,3600.0,0,Sales,Purchases
+ISC-BT-700D3(T),INDUCTION COOKER T/MODEL DOUBLE -2x3.5kW,CaterMarket,True,EACH,12701.0,14606.15,True,,,,,,,,,,,,,Standard Rate,Standard Rate,10800.0,0,Sales,Purchases
+ISC-BT100T,DROP IN / COUNTERSUNK - TOUCH CONTROL - ROUND,CaterMarket,True,EACH,1411.0,1622.65,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1200.0,0,Sales,Purchases
+ISC-BT70T,IN-STAND MODEL - TOUCH CONTROL - ROUND,CaterMarket,True,EACH,1235.0,1420.25,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1050.0,0,Sales,Purchases
+ISC-SSWOK,INDUCTION COOKER STAINLESS STEEL WOK PAN,CaterMarket,True,EACH,1940.0,2231.0,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1650.0,0,Sales,Purchases
+JDP0212,JUICE DISPENSER - 2 X 12LT,CaterMarket,True,EACH,9702.0,11157.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,8250.0,0,Sales,Purchases
+JDP0312,JUICE DISPENSER - 3 X 12LT,CaterMarket,True,EACH,11642.0,13388.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,9900.0,-1,Sales,Purchases
+KB/E-DZ-400G-2,FRYER 2 X 15LT FLOOR STANDING ELECTRIC,CaterMarket,True,EACH,20110.0,23126.5,True,,,,,,,,,,False,False,False,Standard Rate,Standard Rate,17100.0,-4,Sales,Purchases
+KB/E-DZ-6L,ELECTRIC FRYER - 6LT,CaterMarket,True,EACH,2117.0,2434.55,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1800.0,0,Sales,Purchases
+KB/E-DZ-6L-2,ELECTRIC FRYER - 2 X 6LT,CaterMarket,True,EACH,3881.0,4463.15,True,,,,,,,,,,,,,Standard Rate,Standard Rate,3300.0,0,Sales,Purchases
+KB/E-DZ-800G,FRYER ELECTRIC - 2 X 30LT - FLOOR STANDING,CaterMarket,True,EACH,28930.0,33269.5,True,,,,,,,,,,False,False,False,Standard Rate,Standard Rate,24600.0,0,Sales,Purchases
+KB/E-DZ-800G-4,ELECTRIC FRYER - 4 X 15LT - FLOOR STANDING SMARTCHEF,CaterMarket,True,EACH,32634.0,37529.1,True,,,,,,,,,,False,False,False,Standard Rate,Standard Rate,27750.0,-8,Sales,Purchases
+KB/E-LYC-1,OIL FILTER CART,CaterMarket,True,EACH,12701.0,14606.15,True,,,,,,,,,,,,,Standard Rate,Standard Rate,10800.0,0,Sales,Purchases
+LDT0001,LAUNDRY TROLLEY,CaterMarket,True,EACH,2293.0,2636.95,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1950.0,0,Sales,Purchases
+MKF-MKDET,SELF CLEANING DETERGENT,CaterMarket,True,EACH,1764.0,2028.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,1500.0,-1,Sales,Purchases
+MKF-MKTS1064-L,STAND FOR 10 PAN OVEN,CaterMarket,True,EACH,7484.0,8606.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,5940.0,-1,Sales,Purchases
+MKF-MKTS1111-L,STAND FOR 11 PAN OVEN,CaterMarket,True,EACH,7031.0,8085.65,True,,,,,,,,,,,,,Standard Rate,Standard Rate,5580.0,-1,Sales,Purchases
+MKF-MKTS664-L,STAND FOR 6 PAN OVEN,CaterMarket,True,EACH,7711.0,8867.65,True,,,,,,,,,,,,,Standard Rate,Standard Rate,6120.0,-2,Sales,Purchases
+MKF-MKTS711-L,STAND FOR 7 PAN OVEN,CaterMarket,True,EACH,7258.0,8346.7,True,,,,,,,,,,,,,Standard Rate,Standard Rate,5760.0,-1,Sales,Purchases
+MKF1064GS,10 PAN GAS COMBI STEAM OVEN - MILLENNIAL,CaterMarket,True,EACH,101254.0,116442.1,True,,,,,,,,,,,,,Standard Rate,Standard Rate,86100.0,-1,Sales,Purchases
+MKF1064S,10 PAN ELEC COMBI STEAM OVEN - MILLENNIAL,CaterMarket,True,EACH,89964.0,103458.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,76500.0,0,Sales,Purchases
+MKF1111GS,11 PAN GAS COMBI STEAM OVEN - MILLENNIAL,CaterMarket,True,EACH,101254.0,116442.1,True,,,,,,,,,,,,,Standard Rate,Standard Rate,86100.0,0,Sales,Purchases
+MKF1111S,11 PAN ELEC COMBI STEAM OVEN - MILLENNIAL,CaterMarket,True,EACH,86965.0,100009.75,True,,,,,,,,,,,,,Standard Rate,Standard Rate,73950.0,-1,Sales,Purchases
+MKF1111TS,11 PAN ELEC COMBI STEAM OVEN - MILLENNIAL TOUCH SCREEN,CaterMarket,True,EACH,146941.0,168982.15,True,,,,,,,,,,,,,Standard Rate,Standard Rate,124950.0,0,Sales,Purchases
+MKF2011S,20 PAN ELEC COMBI STEAM OVEN - MILLENNIAL,CaterMarket,True,EACH,189630.0,218074.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,161250.0,0,Sales,Purchases
+MKF2011TS,20 PAN ELEC COMBI STEAM OVEN - MILLENNIAL TOUCH SCREEN,CaterMarket,True,EACH,271656.0,312404.4,True,,,,,,,,,,,,,Standard Rate,Standard Rate,231000.0,-1,Sales,Purchases
+MKF664GS,6 PAN GAS COMBI STEAM OVEN - MILLENNIAL,CaterMarket,True,EACH,85201.0,97981.15,True,,,,,,,,,,,,,Standard Rate,Standard Rate,72450.0,0,Sales,Purchases
+MKF664S,6 PAN ELEC COMBI STEAM OVEN - MILLENNIAL,CaterMarket,True,EACH,65621.0,75464.15,True,,,,,,,,,,,,,Standard Rate,Standard Rate,55800.0,-1,Sales,Purchases
+MKF664SP,6 PAN ELEC CONVECTION OVEN,CaterMarket,True,EACH,48334.0,55584.1,True,,,,,,,,,,,,,Standard Rate,Standard Rate,41100.0,-1,Sales,Purchases
+MKF711GS,DISCONTINUED!!! --- 7 PAN GAS COMBI STEAM OVEN - MILLENNIAL,DISCONTINUED,True,EACH,0.0,0.0,True,,,,,,,,,,False,False,False,Standard Rate,Standard Rate,72450.0,-1,Sales,Purchases
+MKF711S,7 PAN ELEC COMBI STEAM OVEN - MILLENNIAL,CaterMarket,True,EACH,63504.0,73029.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,54000.0,0,Sales,Purchases
+MKF711TS,7 PAN ELEC COMBI STEAM OVEN - MILLENNIAL TOUCH SCREEN,CaterMarket,True,EACH,109368.0,125773.2,True,,,,,,,,,,,,,Standard Rate,Standard Rate,93000.0,0,Sales,Purchases
+MMJ0001,MILKSHAKE MAHCINE - DARK GREY,CaterMarket,True,EACH,4586.0,5273.9,True,,,,,,,,,,,,,Standard Rate,Standard Rate,3900.0,0,Sales,Purchases
+MMJ0002,MILKSHAKE MAHCINE - DARK RED,CaterMarket,True,EACH,4586.0,5273.9,True,,,,,,,,,,,,,Standard Rate,Standard Rate,3900.0,-1,Sales,Purchases
+MMJ0003,MILKSHAKE MAHCINE - GREEN,CaterMarket,True,EACH,4586.0,5273.9,True,,,,,,,,,,,,,Standard Rate,Standard Rate,3900.0,0,Sales,Purchases
+MMJ0004,MILKSHAKE MAHCINE - BLUE,CaterMarket,True,EACH,4586.0,5273.9,True,,,,,,,,,,,,,Standard Rate,Standard Rate,3900.0,0,Sales,Purchases
+MMJ0005,MILKSHAKE MAHCINE - SILVER,CaterMarket,True,EACH,4586.0,5273.9,True,,,,,,,,,,,,,Standard Rate,Standard Rate,3900.0,0,Sales,Purchases
+MMJ1000,MILKSHAKE MACHINE CUP - 1LT - STAINLESS STEEL,CaterMarket,True,EACH,423.0,486.45,True,,,,,,,,,,,,,Standard Rate,Standard Rate,360.0,0,Sales,Purchases
+MMJ2000,MILKSHAKE MACHINE CUP - 1LT - POLYCARBONATE,CaterMarket,True,EACH,176.0,202.4,True,,,,,,,,,,,,,Standard Rate,Standard Rate,150.0,0,Sales,Purchases
+MSC0220,MEAT SLICER - 220,CaterMarket,True,EACH,11642.0,13388.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,9900.0,0,Sales,Purchases
+MSC0275,MEAT SLICER - 275,CaterMarket,True,EACH,15347.0,17649.05,True,,,,,,,,,,,,,Standard Rate,Standard Rate,13050.0,0,Sales,Purchases
+MSC0300,MEAT SLICER - 300,CaterMarket,True,EACH,17464.0,20083.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,14850.0,0,Sales,Purchases
+MSS0195,MEAT SLICER - 195,CaterMarket,True,EACH,5645.0,6491.75,True,,,,,,,,,,,,,Standard Rate,Standard Rate,4800.0,0,Sales,Purchases
+MSS0220,MEAT SLICER - 220,CaterMarket,True,EACH,6174.0,7100.1,True,,,,,,,,,,,,,Standard Rate,Standard Rate,5250.0,0,Sales,Purchases
+MSS0250,MEAT SLICER - 250,CaterMarket,True,EACH,7056.0,8114.4,True,,,,,,,,,,,,,Standard Rate,Standard Rate,6000.0,-1,Sales,Purchases
+MSS0300,MEAT SLICER - 300,CaterMarket,True,EACH,9702.0,11157.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,8250.0,0,Sales,Purchases
+MWS1718,17LT MICROWAVE OVEN - 1800W,CaterMarket,True,EACH,24343.0,27994.45,True,,,,,,,,,,,,,Standard Rate,Standard Rate,20700.0,0,Sales,Purchases
+MWS2510,25LT MICROWAVE OVEN - 1000W,CaterMarket,True,EACH,5821.0,6694.15,True,,,,,,,,,,,,,Standard Rate,Standard Rate,4950.0,-1,Sales,Purchases
+MWS3410,34LT MICROWAVE OVEN - 1000W,CaterMarket,True,EACH,8644.0,9940.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,7350.0,0,Sales,Purchases
+NHZ1000,NOTE HOLDER - 1000MM,CaterMarket,True,EACH,397.0,456.55,True,,,,,,,,,,,,,Standard Rate,Standard Rate,337.5,-1,Sales,Purchases
+OGS0011,STAINLESS STEEL OVEN GRID 1/1GN,CaterMarket,True,EACH,229.0,263.35,True,,,,,,,,,,,,,Standard Rate,Standard Rate,195.0,0,Sales,Purchases
+OGS0021,2/1 GN GRIDS,CaterMarket,True,EACH,706.0,811.9,True,,,,,,,,,,,,,Standard Rate,Standard Rate,600.0,0,Sales,Purchases
+OGS0064,OVEN GRID 600 X 400MM,CaterMarket,True,EACH,529.0,608.35,True,,,,,,,,,,,,,Standard Rate,Standard Rate,450.0,-17,Sales,Purchases
+PCB-XF10,PROOVER 10 PAN,CaterMarket,True,EACH,18522.0,21300.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,15750.0,0,Sales,Purchases
+PCB-XF16B,PROOVER 16 PAN,CaterMarket,True,EACH,18522.0,21300.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,15750.0,0,Sales,Purchases
+PCB-XF32B,PROOVER 32 PAN,CaterMarket,True,EACH,28224.0,32457.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,24000.0,0,Sales,Purchases
+PCG/BLF1066GA,MULTIDECK RIDGE WITH DOORS 1.0 METER,CaterMarket,True,EACH,57330.0,65929.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,48750.0,0,Sales,Purchases
+PCG/RTS-103L,SUSHI FRIDGE - 6 X 1/3GN & 1 X 1/2GN,CaterMarket,True,EACH,20992.0,24140.8,True,,,,,,,,,,,,,Standard Rate,Standard Rate,17850.0,0,Sales,Purchases
+PCG/RTS-323L,MULTIDECK FRIDGE WITHOUT DOORS - 1.2 METER,CaterMarket,True,EACH,59976.0,68972.4,True,,,,,,,,,,,,,Standard Rate,Standard Rate,51000.0,0,Sales,Purchases
+PCG/RTS-83L,SUSHI FRIDGE - 6 X 1/3GN,CaterMarket,True,EACH,20110.0,23126.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,17100.0,0,Sales,Purchases
+PCG/SC-278B,REFRIGERATED DISPLAY 4 SIDED GLASS - 278LT - BLACK,CaterMarket,True,EACH,19404.0,22314.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,16500.0,0,Sales,Purchases
+PCG/SC-278W,REFRIGERATED DISPLAY 4 SIDED GLASS - 278LT - WHITE,CaterMarket,True,EACH,19404.0,22314.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,16500.0,0,Sales,Purchases
+PCG/SC-58B,REFRIGERATED DISPLAY 4 SIDED GLASS - 58LT - BLACK,CaterMarket,True,EACH,9526.0,10954.9,True,,,,,,,,,,,,,Standard Rate,Standard Rate,8100.0,0,Sales,Purchases
+PCG/SC-58W,REFRIGERATED DISPLAY 4 SIDED GLASS - 58LT - WHITE,CaterMarket,True,EACH,9526.0,10954.9,True,,,,,,,,,,,,,Standard Rate,Standard Rate,8100.0,0,Sales,Purchases
+PCG/SC-78B,REFRIGERATED DISPLAY 4 SIDED GLASS - 78LT - BLACK,CaterMarket,True,EACH,9878.0,11359.7,True,,,,,,,,,,,,,Standard Rate,Standard Rate,8400.0,0,Sales,Purchases
+PCG/SC-78W,REFRIGERATED DISPLAY 4 SIDED GLASS - 78LT - WHITE,CaterMarket,True,EACH,9878.0,11359.7,True,,,,,,,,,,,,,Standard Rate,Standard Rate,8400.0,0,Sales,Purchases
+PCG/SC-98B,REFRIGERATED DISPLAY 4 SIDED GLASS - 98LT - BLACK,CaterMarket,True,EACH,10760.0,12374.0,True,,,,,,,,,,,,,Standard Rate,Standard Rate,9150.0,0,Sales,Purchases
+PCG/SC-98W,REFRIGERATED DISPLAY 4 SIDED GLASS - 98LT - WHITE,CaterMarket,True,EACH,10760.0,12374.0,True,,,,,,,,,,,,,Standard Rate,Standard Rate,9150.0,0,Sales,Purchases
+PCG/SD-100,FREEZER WITH SLIDING GLASS TOP - 97L,CaterMarket,True,EACH,4763.0,5477.45,True,,,,,,,,,,,,,Standard Rate,Standard Rate,4050.0,0,Sales,Purchases
+PCG/SD-200,FREEZER WITH SLIDING GLASS TOP - 197L,CaterMarket,True,EACH,6350.0,7302.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,5400.0,0,Sales,Purchases
+PCG/SD-420P,ISLAND FREEZER W SLIDING GLASS TOP - 355L,CaterMarket,True,EACH,10760.0,12374.0,True,,,,,,,,,,,,,Standard Rate,Standard Rate,9150.0,-1,Sales,Purchases
+PCG/SD-620P,ISLAND FREEZER W SLIDING GLASS TOP - 545L,CaterMarket,True,EACH,13406.0,15416.9,True,,,,,,,,,,,,,Standard Rate,Standard Rate,11400.0,0,Sales,Purchases
+PCG/SF12VS,UPRIGHT FREEZER - 120LT,CaterMarket,True,EACH,12172.0,13997.8,True,,,,,,,,,,,,,Standard Rate,Standard Rate,10350.0,0,Sales,Purchases
+PCG/SF30VGS,UPRIGHT FREEZER WITH GLASS DOOR - 300LT,CaterMarket,True,EACH,21874.0,25155.1,True,,,,,,,,,,,,,Standard Rate,Standard Rate,18600.0,-1,Sales,Purchases
+PCG/SF30VS,UPRIGHT FREEZER - 300LT,CaterMarket,True,EACH,18346.0,21097.9,True,,,,,,,,,,,,,Standard Rate,Standard Rate,15600.0,0,Sales,Purchases
+PCG/SF58VGS,UPRIGHT FREEZER WITH GLASS DOOR - 580LT,CaterMarket,True,EACH,27342.0,31443.3,True,,,,,,,,,,,,,Standard Rate,Standard Rate,23250.0,0,Sales,Purchases
+PCG/SF58VS,UPRIGHT FREEZER - 580LT,CaterMarket,True,EACH,23638.0,27183.7,True,,,,,,,,,,,,,Standard Rate,Standard Rate,20100.0,0,Sales,Purchases
+PCG/SR12VS,DISCONTINUED!!! --- UPRIGHT FRIDGE - 120LT,DISCONTINUED,True,EACH,0.0,0.0,True,,,,,,,,,,,,,Standard Rate,Standard Rate,8400.0,0,Sales,Purchases
+PCG/SR30VGS,UPRIGHT FRIDGE WITH GLASS DOOR - 300LT,CaterMarket,True,EACH,18346.0,21097.9,True,,,,,,,,,,,,,Standard Rate,Standard Rate,15600.0,0,Sales,Purchases
+PCG/SR30VS,UPRIGHT FRIDGE - 300LT,CaterMarket,True,EACH,17464.0,20083.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,14850.0,0,Sales,Purchases
+PCG/SR58VGS,UPRIGHT FRIDGE WITH GLASS DOOR - 580LT,CaterMarket,True,EACH,21697.0,24951.55,True,,,,,,,,,,,,,Standard Rate,Standard Rate,18450.0,0,Sales,Purchases
+PCG/SR58VS,UPRIGHT FRIDGE - 580LT,CaterMarket,True,EACH,20110.0,23126.5,True,,,,,,,,,,,,,Standard Rate,Standard Rate,17100.0,0,Sales,Purchases
+PCY/EBF-03,BLAST CHILLER - 3 PAN,CaterMarket,True,EACH,31752.0,36514.8,True,,,,,,,,,,,,,Standard Rate,Standard Rate,27000.0,0,Sales,Purchases
+PCY/EBF-05,BLAST CHILLER - 5 PAN,CaterMarket,True,EACH,39514.0,45441.1,True,,,,,,,,,,,,,Standard Rate,Standard Rate,33600.0,-1,Sales,Purchases
+PCY/EBF-10,BLAST CHILLER - 10 PAN,CaterMarket,True,EACH,72324.0,83172.6,True,,,,,,,,,,,,,Standard Rate,Standard Rate,61500.0,0,Sales,Purchases

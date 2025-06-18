@@ -9,138 +9,138 @@
   </head>
   <body class="bg-light p-4">
     <div class="container">
-      <h3 class="mb-4">Cost Adjustments</h3>
-
-      <div class="alert alert-info">
-        <strong>Instructions:</strong>
-        <ul class="mb-0">
-          <li>Enter percentage increases (e.g., 10 for 10% increase)</li>
-          <li>Use negative values for decreases (e.g., -5 for 5% decrease)</li>
-          <li>Leave at 0 for no change</li>
-        </ul>
-      </div>
-
-      <form method="post">
-        <div class="row">
-          <div class="col-md-6">
-            <div class="card mb-3">
+      <div class="row align-items-center">
+        <div class="col-md-7">
+          <h3 class="mb-4">Cost Adjustments</h3>
+          <div class="alert alert-info">
+            <strong>Instructions:</strong>
+            <ul class="mb-0">
+              <li>Enter percentage increases (e.g., 10 for 10% increase)</li>
+              <li>Use negative values for decreases (e.g., -5 for 5% decrease)</li>
+              <li>Leave at 0 for no change</li>
+            </ul>
+          </div>
+          <form method="post">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="card mb-3">
+                  <div class="card-header">
+                    <h5 class="card-title mb-0">Supplier Cost Adjustments</h5>
+                  </div>
+                  <div class="card-body">
+                    <div class="mb-3">
+                      <label for="cost_increase" class="form-label"
+                        >Cost Increase Percentage</label
+                      >
+                      <div class="input-group">
+                        <input
+                          type="number"
+                          class="form-control"
+                          id="cost_increase"
+                          name="cost_increase"
+                          step="0.01"
+                          value="0"
+                          placeholder="Enter percentage"
+                        />
+                        <span class="input-group-text">%</span>
+                      </div>
+                      <div class="form-text">
+                        This will be applied to the supplier's cost column before
+                        updating Sage prices.
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="card mb-3">
+                  <div class="card-header">
+                    <h5 class="card-title mb-0">Price Exclusive Adjustments</h5>
+                  </div>
+                  <div class="card-body">
+                    <div class="mb-3">
+                      <label for="price_exclusive_1" class="form-label"
+                        >First Price Exclusive Percentage</label
+                      >
+                      <div class="input-group">
+                        <input
+                          type="number"
+                          class="form-control"
+                          id="price_exclusive_1"
+                          name="price_exclusive_1"
+                          step="0.01"
+                          value="0"
+                          placeholder="Enter percentage"
+                        />
+                        <span class="input-group-text">%</span>
+                      </div>
+                      <div class="form-text">
+                        First percentage increase applied to the updated cost.
+                      </div>
+                    </div>
+                    <div class="mb-3">
+                      <label for="price_exclusive_2" class="form-label"
+                        >Second Price Exclusive Percentage</label
+                      >
+                      <div class="input-group">
+                        <input
+                          type="number"
+                          class="form-control"
+                          id="price_exclusive_2"
+                          name="price_exclusive_2"
+                          step="0.01"
+                          value="0"
+                          placeholder="Enter percentage"
+                        />
+                        <span class="input-group-text">%</span>
+                      </div>
+                      <div class="form-text">
+                        Second percentage increase applied to the result of the
+                        first increase.
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="card mb-4">
               <div class="card-header">
-                <h5 class="card-title mb-0">Supplier Cost Adjustments</h5>
+                <h5 class="card-title mb-0">Additional Options</h5>
               </div>
               <div class="card-body">
-                <div class="mb-3">
-                  <label for="cost_increase" class="form-label"
-                    >Cost Increase Percentage</label
-                  >
-                  <div class="input-group">
-                    <input
-                      type="number"
-                      class="form-control"
-                      id="cost_increase"
-                      name="cost_increase"
-                      step="0.01"
-                      value="0"
-                      placeholder="Enter percentage"
-                    />
-                    <span class="input-group-text">%</span>
-                  </div>
+                <div class="form-check">
+                  <input
+                    class="form-check-input"
+                    type="checkbox"
+                    id="add_caterbros_increase"
+                    name="add_caterbros_increase"
+                  />
+                  <label class="form-check-label" for="add_caterbros_increase">
+                    Apply CaterBros increase to final prices
+                  </label>
                   <div class="form-text">
-                    This will be applied to the supplier's cost column before
-                    updating Sage prices.
+                    If checked, the cost increase percentage will also be applied to
+                    CaterBros pricing.
                   </div>
                 </div>
               </div>
             </div>
-          </div>
-
-          <div class="col-md-6">
-            <div class="card mb-3">
-              <div class="card-header">
-                <h5 class="card-title mb-0">Price Exclusive Adjustments</h5>
-              </div>
-              <div class="card-body">
-                <div class="mb-3">
-                  <label for="price_exclusive_1" class="form-label"
-                    >First Price Exclusive Percentage</label
-                  >
-                  <div class="input-group">
-                    <input
-                      type="number"
-                      class="form-control"
-                      id="price_exclusive_1"
-                      name="price_exclusive_1"
-                      step="0.01"
-                      value="0"
-                      placeholder="Enter percentage"
-                    />
-                    <span class="input-group-text">%</span>
-                  </div>
-                  <div class="form-text">
-                    First percentage increase applied to the updated cost.
-                  </div>
-                </div>
-
-                <div class="mb-3">
-                  <label for="price_exclusive_2" class="form-label"
-                    >Second Price Exclusive Percentage</label
-                  >
-                  <div class="input-group">
-                    <input
-                      type="number"
-                      class="form-control"
-                      id="price_exclusive_2"
-                      name="price_exclusive_2"
-                      step="0.01"
-                      value="0"
-                      placeholder="Enter percentage"
-                    />
-                    <span class="input-group-text">%</span>
-                  </div>
-                  <div class="form-text">
-                    Second percentage increase applied to the result of the
-                    first increase.
-                  </div>
-                </div>
-              </div>
+            <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+              <button type="submit" class="btn btn-primary btn-lg">
+                Process Files & Generate Updated Prices
+              </button>
+            </div>
+          </form>
+          <div class="mt-4">
+            <div class="alert alert-warning">
+              <strong>Note:</strong> The "Price Inclusive" column will be left
+              unchanged as specified in your requirements. Only "Cost" and "Price
+              Exclusive" columns will be updated based on your settings above.
             </div>
           </div>
         </div>
-
-        <div class="card mb-4">
-          <div class="card-header">
-            <h5 class="card-title mb-0">Additional Options</h5>
-          </div>
-          <div class="card-body">
-            <div class="form-check">
-              <input
-                class="form-check-input"
-                type="checkbox"
-                id="add_caterbros_increase"
-                name="add_caterbros_increase"
-              />
-              <label class="form-check-label" for="add_caterbros_increase">
-                Apply CaterBros increase to final prices
-              </label>
-              <div class="form-text">
-                If checked, the cost increase percentage will also be applied to
-                CaterBros pricing.
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
-          <button type="submit" class="btn btn-primary btn-lg">
-            Process Files & Generate Updated Prices
-          </button>
-        </div>
-      </form>
-
-      <div class="mt-4">
-        <div class="alert alert-warning">
-          <strong>Note:</strong> The "Price Inclusive" column will be left
-          unchanged as specified in your requirements. Only "Cost" and "Price
-          Exclusive" columns will be updated based on your settings above.
+        <div class="col-md-5 text-center">
+          <img src="/static/img/BIL Logo.png" alt="B.I.L Logo" class="img-fluid" style="max-width: 220px; margin-top: 20px;" />
         </div>
       </div>
     </div>

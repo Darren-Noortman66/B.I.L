@@ -178,8 +178,15 @@ def process_files():
         print(f"Supplier columns: {list(supplier_df.columns)}")
         print(f"Code column: {code_col}, Cost column: {cost_col}")
         
+        # First identify any discontinued values in any column
+        discontinued_terms = ['DISCON', 'DIS', 'DISCONTINUED', '"DISCON"', '"DIS"', '"DISCONTINUED"', "'DISCON'", "'DIS'", "'DISCONTINUED'"]
+        discon_mask = supplier_df.apply(lambda x: x.astype(str).str.upper().str.strip('"\' ').isin(discontinued_terms)).any(axis=1)
+        
         # Ensure the supplier cost column is numeric
         supplier_df[cost_col] = pd.to_numeric(supplier_df[cost_col], errors='coerce')
+        
+        # Convert identified discontinued rows to 0 while preserving other NaN values
+        supplier_df.loc[discon_mask, cost_col] = 0
         
         # Apply cost increase to supplier data
         if cost_increase_percentage != 0:
@@ -261,12 +268,18 @@ def process_files():
                     updated_row = row.copy()
                     updated_row[cost_column_sage] = new_cost
                     
-                    # Handle Price Exclusive column if it exists and user wants to update it
-                    if price_exclusive_percentage_1 != 0 or price_exclusive_percentage_2 != 0:
-                        price_exclusive_cols = [col for col in sage_df.columns if 'price' in col.lower() and 'exclusive' in col.lower()]
-                        if price_exclusive_cols:
-                            price_exclusive_col = price_exclusive_cols[0]
-                            
+                    # Handle Price Exclusive column
+                    price_exclusive_cols = [col for col in sage_df.columns if col == "Default Price List - Exclusive"]
+                    if price_exclusive_cols:
+                        price_exclusive_col = price_exclusive_cols[0]
+                        print(f"Processing row with code {norm_code}, cost {new_cost}")
+                        
+                        # Set Price Exclusive to 0 for discontinued items first
+                        if norm_code in supplier_mapping and supplier_mapping[norm_code] == 0:
+                            print(f"Setting Price Exclusive to 0 for discontinued item {norm_code}")
+                            updated_row[price_exclusive_col] = 0
+                        # Only apply percentage calculations if not discontinued and percentages are set
+                        elif price_exclusive_percentage_1 != 0 or price_exclusive_percentage_2 != 0:
                             # Apply first percentage increase
                             if price_exclusive_percentage_1 != 0:
                                 updated_row[price_exclusive_col] = new_cost * (1 + price_exclusive_percentage_1 / 100)

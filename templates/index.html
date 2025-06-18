@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="en">
   <head>
@@ -7,18 +6,25 @@
   </head>
   <body class="bg-light p-5">
     <div class="container">
-      <h2 class="mb-4">Upload Files</h2>
-      <form method="post" enctype="multipart/form-data">
-        <div class="mb-3">
-          <label for="sage_file" class="form-label">Sage File (CSV)</label>
-          <input class="form-control" type="file" name="sage_file" required>
+      <div class="row align-items-center">
+        <div class="col-md-7">
+          <h2 class="mb-4">Upload Files</h2>
+          <form method="post" enctype="multipart/form-data">
+            <div class="mb-3">
+              <label for="sage_file" class="form-label">Sage File (CSV)</label>
+              <input class="form-control" type="file" name="sage_file" required>
+            </div>
+            <div class="mb-3">
+              <label for="supplier_file" class="form-label">Supplier File (CSV or Excel)</label>
+              <input class="form-control" type="file" name="supplier_file" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Next</button>
+          </form>
         </div>
-        <div class="mb-3">
-          <label for="supplier_file" class="form-label">Supplier File (CSV or Excel)</label>
-          <input class="form-control" type="file" name="supplier_file" required>
+        <div class="col-md-5 text-center">
+          <img src="/static/img/BIL Logo.png" alt="B.I.L Logo" class="img-fluid" style="max-width: 220px; margin-top: 20px;" />
         </div>
-        <button type="submit" class="btn btn-primary">Next</button>
-      </form>
+      </div>
     </div>
   </body>
 </html>
