@@ -99,10 +99,6 @@ A web-based application designed to streamline the process of updating product p
 - Large files are automatically split into parts of 450 rows each
 - All price calculations are performed with high precision
 
-## Support
-
-For support, please contact the development team or raise an issue in the GitHub repository.
-
 ## License
 
 This project is proprietary software. All rights reserved.
